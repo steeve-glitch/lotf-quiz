@@ -1,0 +1,36 @@
+{
+  "name": "lotf-quiz",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc -b && vite build",
+    "preview": "vite preview",
+    "generate-questions": "node --env-file=.env scripts/generate-questions.mjs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/steeve-glitch/lotf-quiz.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/steeve-glitch/lotf-quiz/issues"
+  },
+  "homepage": "https://github.com/steeve-glitch/lotf-quiz#readme",
+  "dependencies": {
+    "react": "^19.2.4",
+    "react-dom": "^19.2.4"
+  },
+  "devDependencies": {
+    "@tailwindcss/vite": "^4.2.1",
+    "@types/react": "^19.2.14",
+    "@types/react-dom": "^19.2.3",
+    "@vitejs/plugin-react": "^5.1.4",
+    "tailwindcss": "^4.2.1",
+    "typescript": "^5.9.3",
+    "vite": "^7.3.1"
+  }
+}

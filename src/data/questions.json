@@ -1,0 +1,3475 @@
+{
+  "version": "1.0",
+  "generated": "2026-03-02",
+  "count": 289,
+  "questions": [
+    {
+      "question": "What does the conch shell symbolize in the novel?",
+      "options": [
+        "Order and civilization",
+        "Fear and chaos",
+        "Ralph's power",
+        "The beast"
+      ],
+      "correctAnswer": 0,
+      "category": "Characters",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Who is elected leader at the beginning of the novel?",
+      "options": [
+        "Jack",
+        "Piggy",
+        "Simon",
+        "Ralph"
+      ],
+      "correctAnswer": 3,
+      "category": "Characters",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What is Piggy's real first name?",
+      "options": [
+        "Simon",
+        "Peter",
+        "Ralph",
+        "We never learn his first name"
+      ],
+      "correctAnswer": 3,
+      "category": "Characters",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Which character faints in the heat and is generally seen as physically weak?",
+      "options": [
+        "Jack",
+        "Ralph",
+        "Piggy",
+        "Samneric"
+      ],
+      "correctAnswer": 2,
+      "category": "Characters",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Who is the leader of the choir boys?",
+      "options": [
+        "Ralph",
+        "Simon",
+        "Jack",
+        "Piggy"
+      ],
+      "correctAnswer": 2,
+      "category": "Characters",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Which character is most closely associated with spirituality and nature?",
+      "options": [
+        "Jack",
+        "Roger",
+        "Ralph",
+        "Simon"
+      ],
+      "correctAnswer": 3,
+      "category": "Characters",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What are Sam and Eric's nicknames, reflecting their close relationship?",
+      "options": [
+        "Ralph and Piggy",
+        "Jack and Roger",
+        "Samneric",
+        "The Twins"
+      ],
+      "correctAnswer": 2,
+      "category": "Characters",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Which character enjoys torturing small animals?",
+      "options": [
+        "Ralph",
+        "Simon",
+        "Piggy",
+        "Roger"
+      ],
+      "correctAnswer": 3,
+      "category": "Characters",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What does the conch shell symbolize in the novel?",
+      "options": [
+        "Order and civilization",
+        "Fear and chaos",
+        "Ralph's power",
+        "The beast"
+      ],
+      "correctAnswer": 0,
+      "category": "Characters",
+      "difficulty": "medium"
+    },
+    {
+      "question": "What is Piggy's real first name?",
+      "options": [
+        "Peter",
+        "Simon",
+        "Ralph",
+        "He is never named"
+      ],
+      "correctAnswer": 3,
+      "category": "Characters",
+      "difficulty": "medium"
+    },
+    {
+      "question": "Which character is most associated with the idea of the 'beast' being internal?",
+      "options": [
+        "Jack",
+        "Piggy",
+        "Simon",
+        "Ralph"
+      ],
+      "correctAnswer": 2,
+      "category": "Characters",
+      "difficulty": "medium"
+    },
+    {
+      "question": "What item does Jack steal from Ralph's tribe?",
+      "options": [
+        "The conch",
+        "Firewood",
+        "Piggy's glasses",
+        "The signal fire"
+      ],
+      "correctAnswer": 2,
+      "category": "Characters",
+      "difficulty": "medium"
+    },
+    {
+      "question": "Which of the following characters is NOT a member of Jack's choir?",
+      "options": [
+        "Roger",
+        "Robert",
+        "Maurice",
+        "Piggy"
+      ],
+      "correctAnswer": 3,
+      "category": "Characters",
+      "difficulty": "medium"
+    },
+    {
+      "question": "What is Ralph's father's profession?",
+      "options": [
+        "Naval Officer",
+        "Pilot",
+        "Doctor",
+        "Teacher"
+      ],
+      "correctAnswer": 0,
+      "category": "Characters",
+      "difficulty": "medium"
+    },
+    {
+      "question": "Who is responsible for rolling the boulder that kills Piggy?",
+      "options": [
+        "Jack",
+        "Roger",
+        "Maurice",
+        "Robert"
+      ],
+      "correctAnswer": 1,
+      "category": "Characters",
+      "difficulty": "medium"
+    },
+    {
+      "question": "What is the name of the littlun who first speaks of a 'beastie'?",
+      "options": [
+        "Percival Wemys Madison",
+        "Henry",
+        "Johnny",
+        "Phil"
+      ],
+      "correctAnswer": 0,
+      "category": "Characters",
+      "difficulty": "medium"
+    },
+    {
+      "question": "What specific physical ailment does Piggy suffer from, directly impacting his ability to contribute to the group's survival?",
+      "options": [
+        "Asthma",
+        "Epilepsy",
+        "Severe Nearsightedness",
+        "Diabetes"
+      ],
+      "correctAnswer": 2,
+      "category": "Characters",
+      "difficulty": "hard"
+    },
+    {
+      "question": "Which character is most associated with the idea of intellectualism and rational thought, often attempting to find practical solutions to their problems?",
+      "options": [
+        "Ralph",
+        "Jack",
+        "Piggy",
+        "Simon"
+      ],
+      "correctAnswer": 2,
+      "category": "Characters",
+      "difficulty": "hard"
+    },
+    {
+      "question": "What is the primary reason Jack uses to justify his violent actions and increasing savagery to the other boys?",
+      "options": [
+        "A need to protect the group",
+        "A desire for leadership",
+        "Fear of the beast",
+        "Hunger and desperation"
+      ],
+      "correctAnswer": 2,
+      "category": "Characters",
+      "difficulty": "hard"
+    },
+    {
+      "question": "What is the significance of Simon's encounter with the Lord of the Flies in the clearing?",
+      "options": [
+        "He discovers the beast's true identity",
+        "He receives a prophecy about their rescue",
+        "He succumbs to the island's savagery",
+        "He learns to control the other boys"
+      ],
+      "correctAnswer": 0,
+      "category": "Characters",
+      "difficulty": "hard"
+    },
+    {
+      "question": "Which character initially supports Ralph's leadership and believes in the importance of rules and civilization?",
+      "options": [
+        "Roger",
+        "Jack",
+        "Piggy",
+        "Maurice"
+      ],
+      "correctAnswer": 2,
+      "category": "Characters",
+      "difficulty": "hard"
+    },
+    {
+      "question": "What specific item does Jack steal from Ralph's tribe that directly impacts their ability to maintain a signal fire?",
+      "options": [
+        "The conch",
+        "Piggy's glasses",
+        "A spear",
+        "The hunting knife"
+      ],
+      "correctAnswer": 1,
+      "category": "Characters",
+      "difficulty": "hard"
+    },
+    {
+      "question": "Which of the following best describes Roger's descent into savagery and his capacity for cruelty?",
+      "options": [
+        "He is initially hesitant but quickly adapts",
+        "He remains apathetic and uninvolved throughout",
+        "He is naturally inclined towards violence from the start",
+        "He is manipulated by Jack into committing violent acts"
+      ],
+      "correctAnswer": 0,
+      "category": "Characters",
+      "difficulty": "hard"
+    },
+    {
+      "question": "What is the symbolic meaning of the painted faces adopted by Jack and his hunters?",
+      "options": [
+        "A way to honor the island spirits",
+        "A disguise to hide from the beast",
+        "A means to shed their inhibitions and embrace savagery",
+        "A tribal tradition learned from the previous inhabitants"
+      ],
+      "correctAnswer": 2,
+      "category": "Characters",
+      "difficulty": "hard"
+    },
+    {
+      "question": "What does the conch shell symbolize in the novel?",
+      "options": [
+        "Order and civilization",
+        "Fear and chaos",
+        "Ralph's power",
+        "The beast"
+      ],
+      "correctAnswer": 0,
+      "category": "Symbolism",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What does Piggy's glasses primarily symbolize?",
+      "options": [
+        "Intellect and reason",
+        "Physical weakness",
+        "Hidden power",
+        "Connection to the adult world"
+      ],
+      "correctAnswer": 0,
+      "category": "Symbolism",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What does the signal fire represent?",
+      "options": [
+        "Hope and rescue",
+        "Jack's hunting prowess",
+        "The boys' fear",
+        "The beauty of the island"
+      ],
+      "correctAnswer": 0,
+      "category": "Symbolism",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What does the 'Lord of the Flies' (the pig's head on a stick) symbolize?",
+      "options": [
+        "The primal evil within humanity",
+        "Jack's leadership",
+        "A source of food",
+        "The island's spirit"
+      ],
+      "correctAnswer": 0,
+      "category": "Symbolism",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What does the island itself initially symbolize?",
+      "options": [
+        "Paradise and unspoiled innocence",
+        "Imprisonment and isolation",
+        "A battleground for survival",
+        "A source of untapped resources"
+      ],
+      "correctAnswer": 0,
+      "category": "Symbolism",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What do the littluns (the younger boys) represent?",
+      "options": [
+        "The vulnerable and innocent members of society",
+        "A future generation of hunters",
+        "A threat to the established order",
+        "A source of humor"
+      ],
+      "correctAnswer": 0,
+      "category": "Symbolism",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What does Jack's painted face symbolize?",
+      "options": [
+        "Savagery and liberation from shame",
+        "A connection to nature",
+        "His growing power",
+        "Camouflage for hunting"
+      ],
+      "correctAnswer": 0,
+      "category": "Symbolism",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What does the breaking of the conch symbolize?",
+      "options": [
+        "The complete loss of order and civilization",
+        "Jack's victory over Ralph",
+        "The boys' acceptance of the beast",
+        "Piggy's death"
+      ],
+      "correctAnswer": 0,
+      "category": "Symbolism",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What does the conch shell symbolize in the novel?",
+      "options": [
+        "Order and civilization",
+        "Fear and chaos",
+        "Ralph's power",
+        "The beast"
+      ],
+      "correctAnswer": 0,
+      "category": "Symbolism",
+      "difficulty": "medium"
+    },
+    {
+      "question": "What does Piggy's glasses primarily symbolize?",
+      "options": [
+        "Intellectualism and insight",
+        "Physical weakness",
+        "Cowardice",
+        "Hope for rescue"
+      ],
+      "correctAnswer": 0,
+      "category": "Symbolism",
+      "difficulty": "medium"
+    },
+    {
+      "question": "What does the signal fire symbolize?",
+      "options": [
+        "Hope and connection to civilization",
+        "The boys' fear of the unknown",
+        "Jack's hunting prowess",
+        "The destructive nature of fire"
+      ],
+      "correctAnswer": 0,
+      "category": "Symbolism",
+      "difficulty": "medium"
+    },
+    {
+      "question": "What does the 'Lord of the Flies' itself, the pig's head on a stick, symbolize?",
+      "options": [
+        "The primal instinct of savagery and evil",
+        "The boys' fear of the jungle",
+        "Jack's leadership abilities",
+        "The importance of hunting"
+      ],
+      "correctAnswer": 0,
+      "category": "Symbolism",
+      "difficulty": "medium"
+    },
+    {
+      "question": "What does the island itself, in its initial state, symbolize?",
+      "options": [
+        "A microcosm of the world and human nature",
+        "A paradise lost",
+        "A place of escape",
+        "The boys' isolation from adults"
+      ],
+      "correctAnswer": 0,
+      "category": "Symbolism",
+      "difficulty": "medium"
+    },
+    {
+      "question": "What do the painted faces of the hunters symbolize?",
+      "options": [
+        "Liberation from shame and responsibility",
+        "Camouflage for hunting",
+        "Respect for tribal traditions",
+        "Fear of being recognized"
+      ],
+      "correctAnswer": 0,
+      "category": "Symbolism",
+      "difficulty": "medium"
+    },
+    {
+      "question": "What does the breaking of Piggy's glasses symbolize?",
+      "options": [
+        "The loss of reason and clarity",
+        "Jack's growing power",
+        "The boys' declining eyesight",
+        "The end of the fire"
+      ],
+      "correctAnswer": 0,
+      "category": "Symbolism",
+      "difficulty": "medium"
+    },
+    {
+      "question": "What does the hunt for the pig symbolize?",
+      "options": [
+        "The descent into savagery and loss of innocence",
+        "The boys' need for food",
+        "Jack's leadership skills",
+        "The importance of teamwork"
+      ],
+      "correctAnswer": 0,
+      "category": "Symbolism",
+      "difficulty": "medium"
+    },
+    {
+      "question": "What does the conch shell symbolize in the novel?",
+      "options": [
+        "Order and civilization",
+        "Fear and chaos",
+        "Ralph's power",
+        "The beast"
+      ],
+      "correctAnswer": 0,
+      "category": "Symbolism",
+      "difficulty": "hard"
+    },
+    {
+      "question": "What does Piggy's glasses most profoundly symbolize?",
+      "options": [
+        "Scientific reasoning and intellect",
+        "Physical weakness and vulnerability",
+        "The loss of innocence",
+        "The power of fire"
+      ],
+      "correctAnswer": 0,
+      "category": "Symbolism",
+      "difficulty": "hard"
+    },
+    {
+      "question": "The Lord of the Flies is literally the pig's head on a stick, but what does it symbolically represent?",
+      "options": [
+        "The boys' fear of the unknown",
+        "The inherent evil and savagery within humans",
+        "Jack's growing power and dominance",
+        "The island's natural beauty and abundance"
+      ],
+      "correctAnswer": 1,
+      "category": "Symbolism",
+      "difficulty": "hard"
+    },
+    {
+      "question": "What does the signal fire, which the boys struggle to maintain, primarily symbolize?",
+      "options": [
+        "The boys' hope for rescue and connection to civilization",
+        "The destructive power of fire when misused",
+        "The rivalry between Ralph and Jack",
+        "The boys' growing dependence on nature"
+      ],
+      "correctAnswer": 0,
+      "category": "Symbolism",
+      "difficulty": "hard"
+    },
+    {
+      "question": "What is the symbolic significance of the painted faces the boys adopt?",
+      "options": [
+        "A connection to tribal rituals and hunting prowess",
+        "A mask that allows them to hide their true selves and embrace savagery",
+        "A way to intimidate the other boys on the island",
+        "An attempt to attract the attention of passing ships"
+      ],
+      "correctAnswer": 1,
+      "category": "Symbolism",
+      "difficulty": "hard"
+    },
+    {
+      "question": "What does the island itself, with its initial beauty and subsequent decay, symbolize?",
+      "options": [
+        "The Garden of Eden and the fall from grace",
+        "The power of nature to both nurture and destroy",
+        "The isolation and loneliness of the boys",
+        "The boys' lost childhood and innocence"
+      ],
+      "correctAnswer": 0,
+      "category": "Symbolism",
+      "difficulty": "hard"
+    },
+    {
+      "question": "Simon's encounter with the Lord of the Flies in the forest is symbolic of what realization?",
+      "options": [
+        "The beast is an external threat that can be defeated with courage",
+        "The beast is an internal force that resides within each of them",
+        "The Lord of the Flies is a benevolent spirit guiding them",
+        "The island is cursed and will bring them all to ruin"
+      ],
+      "correctAnswer": 1,
+      "category": "Symbolism",
+      "difficulty": "hard"
+    },
+    {
+      "question": "The breaking of Piggy's glasses is symbolic of what event in the novel?",
+      "options": [
+        "The complete loss of reason and intellect on the island",
+        "The boys' inability to start a fire for rescue",
+        "The escalating violence and descent into savagery",
+        "Piggy's growing fear of Jack and his tribe"
+      ],
+      "correctAnswer": 2,
+      "category": "Symbolism",
+      "difficulty": "hard"
+    },
+    {
+      "question": "What does the conch shell symbolize in the novel?",
+      "options": [
+        "Order and civilization",
+        "Fear and chaos",
+        "Ralph's power",
+        "The beast"
+      ],
+      "correctAnswer": 0,
+      "category": "Plot Events",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What do the boys use to start their first fire?",
+      "options": [
+        "Dry leaves",
+        "Piggy's glasses",
+        "Two sticks",
+        "The conch shell"
+      ],
+      "correctAnswer": 1,
+      "category": "Plot Events",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What is the name of the boy who is initially elected leader?",
+      "options": [
+        "Jack",
+        "Piggy",
+        "Ralph",
+        "Simon"
+      ],
+      "correctAnswer": 2,
+      "category": "Plot Events",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What do the hunters chant when they kill a pig?",
+      "options": [
+        "Kill the pig! Spill her blood!",
+        "Hunt the pig! Let it bleed!",
+        "Kill the beast! Cut his throat!",
+        "Chase the pig! Eat it raw!"
+      ],
+      "correctAnswer": 0,
+      "category": "Plot Events",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Who discovers the 'Lord of the Flies'?",
+      "options": [
+        "Ralph",
+        "Jack",
+        "Piggy",
+        "Simon"
+      ],
+      "correctAnswer": 3,
+      "category": "Plot Events",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What does Jack establish as his tribe's headquarters?",
+      "options": [
+        "The beach",
+        "Castle Rock",
+        "The platform",
+        "The jungle"
+      ],
+      "correctAnswer": 1,
+      "category": "Plot Events",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What happens to Piggy's glasses?",
+      "options": [
+        "They are lost in the jungle",
+        "Jack steals them",
+        "Ralph breaks them accidentally",
+        "They are washed away by the tide"
+      ],
+      "correctAnswer": 1,
+      "category": "Plot Events",
+      "difficulty": "easy"
+    },
+    {
+      "question": "How is Piggy killed?",
+      "options": [
+        "He falls off a cliff",
+        "He is stabbed by Jack",
+        "A boulder crushes him",
+        "He drowns in the ocean"
+      ],
+      "correctAnswer": 2,
+      "category": "Plot Events",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What does the conch shell symbolize in the novel?",
+      "options": [
+        "Order and civilization",
+        "Fear and chaos",
+        "Ralph's power",
+        "The beast"
+      ],
+      "correctAnswer": 0,
+      "category": "Plot Events",
+      "difficulty": "medium"
+    },
+    {
+      "question": "What is Piggy's real name?",
+      "options": [
+        "Simon",
+        "Roger",
+        "He is never named",
+        "Ralph"
+      ],
+      "correctAnswer": 2,
+      "category": "Plot Events",
+      "difficulty": "medium"
+    },
+    {
+      "question": "What do the boys use to start their signal fire?",
+      "options": [
+        "Dry leaves",
+        "Piggy's glasses",
+        "Lighter fluid",
+        "Flint and steel"
+      ],
+      "correctAnswer": 1,
+      "category": "Plot Events",
+      "difficulty": "medium"
+    },
+    {
+      "question": "Which character is most associated with the Lord of the Flies?",
+      "options": [
+        "Ralph",
+        "Piggy",
+        "Jack",
+        "Simon"
+      ],
+      "correctAnswer": 3,
+      "category": "Plot Events",
+      "difficulty": "medium"
+    },
+    {
+      "question": "What is the first animal that Jack hunts and kills?",
+      "options": [
+        "A wild boar",
+        "A rabbit",
+        "A piglet",
+        "A goat"
+      ],
+      "correctAnswer": 2,
+      "category": "Plot Events",
+      "difficulty": "medium"
+    },
+    {
+      "question": "What happens to Piggy's glasses?",
+      "options": [
+        "They are lost in the ocean",
+        "Ralph breaks them accidentally",
+        "Jack steals them",
+        "They are used to make fire and then break"
+      ],
+      "correctAnswer": 2,
+      "category": "Plot Events",
+      "difficulty": "medium"
+    },
+    {
+      "question": "How does Piggy die?",
+      "options": [
+        "He is attacked by the beast",
+        "He falls off a cliff",
+        "Roger pushes a boulder onto him",
+        "He drowns in the ocean"
+      ],
+      "correctAnswer": 2,
+      "category": "Plot Events",
+      "difficulty": "medium"
+    },
+    {
+      "question": "At the end of the novel, who does Ralph encounter on the beach?",
+      "options": [
+        "A group of natives",
+        "His parents",
+        "A naval officer",
+        "A rescue helicopter"
+      ],
+      "correctAnswer": 3,
+      "category": "Plot Events",
+      "difficulty": "medium"
+    },
+    {
+      "question": "What is Piggy's real first name, which is only revealed once in the novel?",
+      "options": [
+        "Peter",
+        "Ralph",
+        "Simon",
+        "His first name is never revealed"
+      ],
+      "correctAnswer": 0,
+      "category": "Plot Events",
+      "difficulty": "hard"
+    },
+    {
+      "question": "During the hunt that leads to Simon's death, what animal do the boys initially hunt and kill?",
+      "options": [
+        "A wild boar",
+        "A deer",
+        "A sow with piglets",
+        "A goat"
+      ],
+      "correctAnswer": 2,
+      "category": "Plot Events",
+      "difficulty": "hard"
+    },
+    {
+      "question": "What is the specific reason Jack gives for needing to hunt, beyond just acquiring meat?",
+      "options": [
+        "To prove his dominance over Ralph",
+        "To conquer his fear of the island",
+        "To provide for the littluns",
+        "To forget the adult world"
+      ],
+      "correctAnswer": 1,
+      "category": "Plot Events",
+      "difficulty": "hard"
+    },
+    {
+      "question": "How does Piggy's intellectualism directly contribute to his death?",
+      "options": [
+        "He tries to reason with Jack's tribe",
+        "He refuses to carry a spear",
+        "He defends Ralph's leadership too vocally",
+        "He argues about the existence of the beast"
+      ],
+      "correctAnswer": 0,
+      "category": "Plot Events",
+      "difficulty": "hard"
+    },
+    {
+      "question": "What specific item is stolen from Ralph's camp during the raid by Jack and his hunters?",
+      "options": [
+        "The conch",
+        "Piggy's glasses",
+        "The fire-making sticks",
+        "Their supply of fruit"
+      ],
+      "correctAnswer": 1,
+      "category": "Plot Events",
+      "difficulty": "hard"
+    },
+    {
+      "question": "What chant do the hunters repeat during their ritualistic dances?",
+      "options": [
+        "'Kill the pig! Cut his throat! Bash him in!'",
+        "'Hunt the beast! Capture the beast! Kill the beast!'",
+        "'Ralph is bad! Jack is good! We want meat!'",
+        "'The island is ours! We are the hunters! We are strong!'"
+      ],
+      "correctAnswer": 0,
+      "category": "Plot Events",
+      "difficulty": "hard"
+    },
+    {
+      "question": "What is the significance of the Lord of the Flies being impaled on a stick?",
+      "options": [
+        "It's a warning to Ralph and the other boys",
+        "It's an offering to the beast",
+        "It's a symbol of Jack's power",
+        "All of the above"
+      ],
+      "correctAnswer": 3,
+      "category": "Plot Events",
+      "difficulty": "hard"
+    },
+    {
+      "question": "What does Ralph do when he encounters the naval officer at the end of the novel?",
+      "options": [
+        "He tries to explain what happened on the island",
+        "He asks to be rescued immediately",
+        "He starts to cry",
+        "He attacks Jack"
+      ],
+      "correctAnswer": 2,
+      "category": "Plot Events",
+      "difficulty": "hard"
+    },
+    {
+      "question": "What does the conch shell symbolize in the novel?",
+      "options": [
+        "Order and civilization",
+        "Fear and chaos",
+        "Ralph's power",
+        "The beast"
+      ],
+      "correctAnswer": 0,
+      "category": "Themes",
+      "difficulty": "easy"
+    },
+    {
+      "question": "The signal fire is primarily meant to represent what?",
+      "options": [
+        "Hope of rescue",
+        "Jack's authority",
+        "A source of warmth",
+        "A place to cook food"
+      ],
+      "correctAnswer": 0,
+      "category": "Themes",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What does Piggy's broken glasses symbolize?",
+      "options": [
+        "Loss of intellect and reason",
+        "A need for better hygiene",
+        "The end of the fire",
+        "Increased hunting ability"
+      ],
+      "correctAnswer": 0,
+      "category": "Themes",
+      "difficulty": "easy"
+    },
+    {
+      "question": "The Lord of the Flies represents what concept?",
+      "options": [
+        "The evil within human nature",
+        "The power of nature",
+        "The island's original inhabitants",
+        "A fear of insects"
+      ],
+      "correctAnswer": 0,
+      "category": "Themes",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What does the island itself initially represent?",
+      "options": [
+        "Paradise and innocence",
+        "A place of eternal darkness",
+        "A prison",
+        "A battleground for survival"
+      ],
+      "correctAnswer": 0,
+      "category": "Themes",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Jack's painted face symbolizes what?",
+      "options": [
+        "Savagery and liberation from shame",
+        "A need for camouflage",
+        "His artistic talent",
+        "A sign of respect for the island"
+      ],
+      "correctAnswer": 0,
+      "category": "Themes",
+      "difficulty": "easy"
+    },
+    {
+      "question": "The 'beast' ultimately represents what?",
+      "options": [
+        "The inherent savagery within the boys",
+        "A real monster on the island",
+        "The fear of the unknown",
+        "A figment of Piggy's imagination"
+      ],
+      "correctAnswer": 0,
+      "category": "Themes",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What does Ralph's desire for order and rules represent?",
+      "options": [
+        "Civilization and structure",
+        "A longing for his parents",
+        "A fear of Jack",
+        "A desire for more food"
+      ],
+      "correctAnswer": 0,
+      "category": "Themes",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What does the conch shell symbolize in the novel?",
+      "options": [
+        "Order and civilization",
+        "Fear and chaos",
+        "Ralph's power",
+        "The beast"
+      ],
+      "correctAnswer": 0,
+      "category": "Themes",
+      "difficulty": "medium"
+    },
+    {
+      "question": "The signal fire primarily symbolizes what?",
+      "options": [
+        "Hope and rescue",
+        "Destruction and savagery",
+        "Jack's authority",
+        "The boys' fear"
+      ],
+      "correctAnswer": 0,
+      "category": "Themes",
+      "difficulty": "medium"
+    },
+    {
+      "question": "What does the painted face symbolize for Jack and his tribe?",
+      "options": [
+        "Innocence and playfulness",
+        "Liberation from shame and responsibility",
+        "A connection to nature",
+        "Fear of the unknown"
+      ],
+      "correctAnswer": 1,
+      "category": "Themes",
+      "difficulty": "medium"
+    },
+    {
+      "question": "The Lord of the Flies represents what abstract concept?",
+      "options": [
+        "Inherent human goodness",
+        "External evil",
+        "The power of nature",
+        "Inherent human savagery"
+      ],
+      "correctAnswer": 3,
+      "category": "Themes",
+      "difficulty": "medium"
+    },
+    {
+      "question": "Piggy's glasses are a symbol of what?",
+      "options": [
+        "Physical strength",
+        "Intellect and reason",
+        "Cowardice and weakness",
+        "Spiritual insight"
+      ],
+      "correctAnswer": 1,
+      "category": "Themes",
+      "difficulty": "medium"
+    },
+    {
+      "question": "What is the main theme explored through the conflict between Ralph and Jack?",
+      "options": [
+        "The importance of friendship",
+        "The struggle between civilization and savagery",
+        "The dangers of exploration",
+        "The beauty of nature"
+      ],
+      "correctAnswer": 1,
+      "category": "Themes",
+      "difficulty": "medium"
+    },
+    {
+      "question": "The 'beast' ultimately symbolizes what?",
+      "options": [
+        "A real, physical monster",
+        "The inherent evil within the boys themselves",
+        "The dangers of the island",
+        "The power of the ocean"
+      ],
+      "correctAnswer": 1,
+      "category": "Themes",
+      "difficulty": "medium"
+    },
+    {
+      "question": "What does the destruction of the conch symbolize at the end of the novel?",
+      "options": [
+        "The end of hope",
+        "The triumph of savagery and the loss of order",
+        "The beginning of a new society",
+        "The boys' acceptance of their fate"
+      ],
+      "correctAnswer": 1,
+      "category": "Themes",
+      "difficulty": "medium"
+    },
+    {
+      "question": "What does the conch shell symbolize in the novel?",
+      "options": [
+        "Order and civilization",
+        "Fear and chaos",
+        "Ralph's power",
+        "The beast"
+      ],
+      "correctAnswer": 0,
+      "category": "Themes",
+      "difficulty": "hard"
+    },
+    {
+      "question": "The Lord of the Flies is literally represented by what object?",
+      "options": [
+        "A painted face",
+        "A rotting pig's head on a stick",
+        "A pile of signal fire wood",
+        "A sharpened stick"
+      ],
+      "correctAnswer": 1,
+      "category": "Themes",
+      "difficulty": "hard"
+    },
+    {
+      "question": "What is the primary symbolic significance of Piggy's glasses?",
+      "options": [
+        "Intellectualism and clarity of vision",
+        "Physical weakness and vulnerability",
+        "Technological advancement",
+        "A connection to the adult world"
+      ],
+      "correctAnswer": 0,
+      "category": "Themes",
+      "difficulty": "hard"
+    },
+    {
+      "question": "The signal fire, initially prioritized by Ralph, primarily symbolizes what abstract concept?",
+      "options": [
+        "Hope and connection to civilization",
+        "Destruction and chaos",
+        "The boys' primal instincts",
+        "Jack's growing power"
+      ],
+      "correctAnswer": 0,
+      "category": "Themes",
+      "difficulty": "hard"
+    },
+    {
+      "question": "What does the act of painting their faces symbolize for Jack and his hunters?",
+      "options": [
+        "Camouflage and hunting prowess",
+        "Liberation from shame and civilization",
+        "A ritualistic connection to the island",
+        "An attempt to scare the beast"
+      ],
+      "correctAnswer": 1,
+      "category": "Themes",
+      "difficulty": "hard"
+    },
+    {
+      "question": "What does the island itself, in its initial untouched state, symbolically represent?",
+      "options": [
+        "The boys' innocence and potential",
+        "The inherent evil within humanity",
+        "The indifference of nature",
+        "A paradise lost"
+      ],
+      "correctAnswer": 0,
+      "category": "Themes",
+      "difficulty": "hard"
+    },
+    {
+      "question": "The recurring references to the 'beast' ultimately represent what fundamental aspect of human nature?",
+      "options": [
+        "External threats and dangers",
+        "The boys' fear of the unknown",
+        "The inherent capacity for savagery and evil",
+        "The power of imagination"
+      ],
+      "correctAnswer": 2,
+      "category": "Themes",
+      "difficulty": "hard"
+    },
+    {
+      "question": "What is the deeper symbolic meaning behind the boys' descent into tribalism and violence?",
+      "options": [
+        "The inherent superiority of some individuals",
+        "The failure of democratic systems",
+        "The fragility of civilization and the power of primal instincts",
+        "The inevitable outcome of isolation"
+      ],
+      "correctAnswer": 2,
+      "category": "Themes",
+      "difficulty": "hard"
+    },
+    {
+      "question": "What does Piggy often use to emphasize the importance of thinking?",
+      "options": [
+        "His glasses",
+        "The conch",
+        "His intelligence",
+        "Ralph's authority"
+      ],
+      "correctAnswer": 0,
+      "category": "Quotes",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What do the boys use to start the signal fire?",
+      "options": [
+        "Dry leaves",
+        "Piggy's glasses",
+        "Flint and steel",
+        "The conch shell"
+      ],
+      "correctAnswer": 1,
+      "category": "Quotes",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What is Jack obsessed with throughout the novel?",
+      "options": [
+        "Building shelters",
+        "Hunting pigs",
+        "Maintaining the fire",
+        "Rescuing the littluns"
+      ],
+      "correctAnswer": 1,
+      "category": "Quotes",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What does Ralph think is the most important thing for the boys to do?",
+      "options": [
+        "Have fun",
+        "Build shelters",
+        "Get rescued",
+        "Find food"
+      ],
+      "correctAnswer": 2,
+      "category": "Quotes",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Who is elected leader at the beginning of the novel?",
+      "options": [
+        "Jack",
+        "Piggy",
+        "Simon",
+        "Ralph"
+      ],
+      "correctAnswer": 3,
+      "category": "Quotes",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What is the 'Lord of the Flies' actually?",
+      "options": [
+        "A monster",
+        "A pig's head on a stick",
+        "A secret society",
+        "A type of fly"
+      ],
+      "correctAnswer": 1,
+      "category": "Quotes",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Which character is most closely associated with spiritual insight and understanding?",
+      "options": [
+        "Ralph",
+        "Jack",
+        "Piggy",
+        "Simon"
+      ],
+      "correctAnswer": 3,
+      "category": "Quotes",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What is the main reason the boys are stranded on the island?",
+      "options": [
+        "A shipwreck",
+        "A plane crash",
+        "A nuclear war",
+        "A school trip gone wrong"
+      ],
+      "correctAnswer": 1,
+      "category": "Quotes",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Who says the famous line, \"Maybe there is a beast... maybe it's only us.\"",
+      "options": [
+        "Ralph",
+        "Piggy",
+        "Simon",
+        "Jack"
+      ],
+      "correctAnswer": 2,
+      "category": "Quotes",
+      "difficulty": "medium"
+    },
+    {
+      "question": "What does Piggy say when the conch is broken?",
+      "options": [
+        "\"Everything is lost!\"",
+        "\"Which is better, law and rescue, or hunting and breaking things up?\"",
+        "\"I got the conch!\"",
+        "\"I told you so!\""
+      ],
+      "correctAnswer": 1,
+      "category": "Quotes",
+      "difficulty": "medium"
+    },
+    {
+      "question": "What does Ralph shout at Jack and the hunters during their confrontation after Simon's death?",
+      "options": [
+        "\"You're all savages!\"",
+        "\"Which is better, to have rules and agree, or to hunt and kill?\"",
+        "\"Give me the conch!\"",
+        "\"You let the fire go out!\""
+      ],
+      "correctAnswer": 0,
+      "category": "Quotes",
+      "difficulty": "medium"
+    },
+    {
+      "question": "What does Jack repeatedly chant while hunting?",
+      "options": [
+        "\"Kill the pig! Cut her throat! Spill her blood!\"",
+        "\"Hunt the beast! Find the beast! Kill the beast!\"",
+        "\"Power! Control! Domination!\"",
+        "\"Freedom! Victory! Survival!\""
+      ],
+      "correctAnswer": 0,
+      "category": "Quotes",
+      "difficulty": "medium"
+    },
+    {
+      "question": "What are Piggy's final words before his death?",
+      "options": [
+        "\"Ralph! Run!\"",
+        "\"I got the conch! You let me speak!\"",
+        "\"Which is better—to be packed and painted—or to be wise?\"",
+        "\"Help me! They're going to kill me!\""
+      ],
+      "correctAnswer": 1,
+      "category": "Quotes",
+      "difficulty": "medium"
+    },
+    {
+      "question": "What does Simon say to Ralph when Ralph despairs about being rescued?",
+      "options": [
+        "\"You'll get back all right. I think so, anyway.\"",
+        "\"We have to keep the fire going.\"",
+        "\"We need to build shelters.\"",
+        "\"Don't give up hope, Ralph!\""
+      ],
+      "correctAnswer": 0,
+      "category": "Quotes",
+      "difficulty": "medium"
+    },
+    {
+      "question": "What phrase does Ralph repeat when trying to remember the importance of fire?",
+      "options": [
+        "\"The fire, the fire!\"",
+        "\"We need smoke!\"",
+        "\"Rescue, rescue!\"",
+        "\"The signal fire!\""
+      ],
+      "correctAnswer": 1,
+      "category": "Quotes",
+      "difficulty": "medium"
+    },
+    {
+      "question": "What does the naval officer say to Ralph at the end of the novel?",
+      "options": [
+        "\"I should have thought that a pack of British boys... would have been able to put up a better show than that.\"",
+        "\"You're all going home now.\"",
+        "\"Don't worry, we're here to rescue you.\"",
+        "\"Everything will be alright.\""
+      ],
+      "correctAnswer": 0,
+      "category": "Quotes",
+      "difficulty": "medium"
+    },
+    {
+      "question": "What does Piggy desperately claim he was trying to do when his glasses are stolen?",
+      "options": [
+        "Light the signal fire",
+        "Reason with Jack",
+        "Find Ralph",
+        "Protect the conch"
+      ],
+      "correctAnswer": 0,
+      "category": "Quotes",
+      "difficulty": "hard"
+    },
+    {
+      "question": "What is the exact wording of Simon's revelation from the Lord of the Flies regarding the nature of the beast?",
+      "options": [
+        "'The beast is a pig's head.'",
+        "'Fancy thinking the Beast was something you could hunt and kill!'",
+        "'The beast is inside us all.'",
+        "'It's just us, boys. We're the beast.'"
+      ],
+      "correctAnswer": 1,
+      "category": "Quotes",
+      "difficulty": "hard"
+    },
+    {
+      "question": "What does Piggy say immediately before he dies?",
+      "options": [
+        "'Ralph! Run!'",
+        "'Which is better, law and rescue, or hunting and breaking things up?'",
+        "'I got the conch! I got the right to speak!'",
+        "'Listen to me! We need to be rescued!'"
+      ],
+      "correctAnswer": 1,
+      "category": "Quotes",
+      "difficulty": "hard"
+    },
+    {
+      "question": "What is the naval officer's ironic question to Ralph at the end of the novel?",
+      "options": [
+        "'Having a good time, boys?'",
+        "'Who's in charge here?'",
+        "'Are there any dead bodies?'",
+        "'What have you been up to?'"
+      ],
+      "correctAnswer": 0,
+      "category": "Quotes",
+      "difficulty": "hard"
+    },
+    {
+      "question": "What specific phrase does Jack use to declare his independence from Ralph's authority?",
+      "options": [
+        "'I'm going off to hunt.'",
+        "'I'm not playing any longer.'",
+        "'We'll have fun!'",
+        "'This is my island now.'"
+      ],
+      "correctAnswer": 1,
+      "category": "Quotes",
+      "difficulty": "hard"
+    },
+    {
+      "question": "What is the exact wording Ralph uses when he laments the loss of intellectual discourse on the island?",
+      "options": [
+        "'Things are breaking up. I don't understand why.'",
+        "'We need to think, like Piggy said.'",
+        "'The fire's the most important thing. Without the fire, we can't be rescued.'",
+        "'We don't think. We just act.'"
+      ],
+      "correctAnswer": 0,
+      "category": "Quotes",
+      "difficulty": "hard"
+    },
+    {
+      "question": "What does Piggy repeatedly insist Jack is doing when he is being unreasonable?",
+      "options": [
+        "'Being a savage.'",
+        "'Not playing fair.'",
+        "'Acting like a kid.'",
+        "'Breaking the rules.'"
+      ],
+      "correctAnswer": 3,
+      "category": "Quotes",
+      "difficulty": "hard"
+    },
+    {
+      "question": "What does Simon say to Ralph when Ralph expresses his desire to return home?",
+      "options": [
+        "'You'll get back all right.'",
+        "'We'll all get back safely.'",
+        "'Don't give up hope.'",
+        "'Someone will rescue us eventually.'"
+      ],
+      "correctAnswer": 0,
+      "category": "Quotes",
+      "difficulty": "hard"
+    },
+    {
+      "question": "What does the conch shell symbolize in the novel?",
+      "options": [
+        "Order and civilization",
+        "Fear and chaos",
+        "Ralph's power",
+        "The beast"
+      ],
+      "correctAnswer": 0,
+      "category": "The Island",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What is the primary source of food for the boys on the island?",
+      "options": [
+        "Fish",
+        "Canned goods",
+        "Fruit and pigs",
+        "Berries"
+      ],
+      "correctAnswer": 2,
+      "category": "The Island",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What is the purpose of the signal fire?",
+      "options": [
+        "To cook food",
+        "To attract passing ships",
+        "To keep the beast away",
+        "To provide light at night"
+      ],
+      "correctAnswer": 1,
+      "category": "The Island",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What is the name of the boy who is frequently targeted and bullied?",
+      "options": [
+        "Roger",
+        "Piggy",
+        "Simon",
+        "Jack"
+      ],
+      "correctAnswer": 1,
+      "category": "The Island",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Who is elected as the initial leader of the boys?",
+      "options": [
+        "Jack",
+        "Piggy",
+        "Simon",
+        "Ralph"
+      ],
+      "correctAnswer": 3,
+      "category": "The Island",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What object does Jack use to hunt pigs?",
+      "options": [
+        "A spear",
+        "A bow and arrow",
+        "A slingshot",
+        "A net"
+      ],
+      "correctAnswer": 0,
+      "category": "The Island",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Which character insists on the importance of rules and rescue?",
+      "options": [
+        "Roger",
+        "Jack",
+        "Ralph",
+        "Maurice"
+      ],
+      "correctAnswer": 2,
+      "category": "The Island",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What do the boys use to start the signal fire?",
+      "options": [
+        "Matches",
+        "Piggy's glasses",
+        "Flint and steel",
+        "A magnifying glass"
+      ],
+      "correctAnswer": 1,
+      "category": "The Island",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What does the conch shell symbolize in the novel?",
+      "options": [
+        "Order and civilization",
+        "Fear and chaos",
+        "Ralph's power",
+        "The beast"
+      ],
+      "correctAnswer": 0,
+      "category": "The Island",
+      "difficulty": "medium"
+    },
+    {
+      "question": "What is the purpose of the signal fire that the boys attempt to maintain?",
+      "options": [
+        "To cook food",
+        "To attract passing ships",
+        "To scare away the beast",
+        "To provide warmth at night"
+      ],
+      "correctAnswer": 1,
+      "category": "The Island",
+      "difficulty": "medium"
+    },
+    {
+      "question": "What geographical feature serves as Ralph's initial meeting place and a center for assemblies?",
+      "options": [
+        "The beach",
+        "The jungle",
+        "The mountain top",
+        "The platform"
+      ],
+      "correctAnswer": 3,
+      "category": "The Island",
+      "difficulty": "medium"
+    },
+    {
+      "question": "Which character is most associated with hunting pigs and the descent into savagery?",
+      "options": [
+        "Ralph",
+        "Piggy",
+        "Simon",
+        "Jack"
+      ],
+      "correctAnswer": 3,
+      "category": "The Island",
+      "difficulty": "medium"
+    },
+    {
+      "question": "What is the 'Lord of the Flies' literally?",
+      "options": [
+        "A demonic entity",
+        "A giant insect",
+        "A pig's head on a stick",
+        "The island's volcano"
+      ],
+      "correctAnswer": 3,
+      "category": "The Island",
+      "difficulty": "medium"
+    },
+    {
+      "question": "What item is Piggy most closely associated with and relies on?",
+      "options": [
+        "His knife",
+        "His glasses",
+        "His spear",
+        "His conch"
+      ],
+      "correctAnswer": 1,
+      "category": "The Island",
+      "difficulty": "medium"
+    },
+    {
+      "question": "Which character discovers the 'beast' on the mountain, only to be killed?",
+      "options": [
+        "Ralph",
+        "Piggy",
+        "Simon",
+        "Jack"
+      ],
+      "correctAnswer": 2,
+      "category": "The Island",
+      "difficulty": "medium"
+    },
+    {
+      "question": "Who is elected as the overall leader of the boys?",
+      "options": [
+        "Jack",
+        "Ralph",
+        "Piggy",
+        "Simon"
+      ],
+      "correctAnswer": 1,
+      "category": "Characters",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Who leads the choir boys on the island?",
+      "options": [
+        "Ralph",
+        "Roger",
+        "Simon",
+        "Jack Merridew"
+      ],
+      "correctAnswer": 3,
+      "category": "Characters",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What does the conch shell symbolize in the novel?",
+      "options": [
+        "Order and civilization",
+        "Fear and chaos",
+        "Ralph's power",
+        "The beast"
+      ],
+      "correctAnswer": 0,
+      "category": "The Island",
+      "difficulty": "hard"
+    },
+    {
+      "question": "What is the significance of Piggy's glasses?",
+      "options": [
+        "They represent intellectualism and insight",
+        "They are used for hunting",
+        "They are a symbol of physical strength",
+        "They are used to communicate with adults"
+      ],
+      "correctAnswer": 0,
+      "category": "The Island",
+      "difficulty": "hard"
+    },
+    {
+      "question": "What location on the island does Simon frequently retreat to for contemplation?",
+      "options": [
+        "The beach",
+        "The jungle thicket",
+        "Castle Rock",
+        "The lagoon"
+      ],
+      "correctAnswer": 1,
+      "category": "The Island",
+      "difficulty": "hard"
+    },
+    {
+      "question": "What is the primary purpose of the signal fire?",
+      "options": [
+        "To cook food",
+        "To attract rescue",
+        "To scare away the beast",
+        "To provide warmth at night"
+      ],
+      "correctAnswer": 1,
+      "category": "The Island",
+      "difficulty": "hard"
+    },
+    {
+      "question": "Which character is directly responsible for the signal fire going out when a ship passes?",
+      "options": [
+        "Ralph",
+        "Piggy",
+        "Jack",
+        "Simon"
+      ],
+      "correctAnswer": 2,
+      "category": "The Island",
+      "difficulty": "hard"
+    },
+    {
+      "question": "What is the 'Lord of the Flies' actually?",
+      "options": [
+        "A mythical beast",
+        "The island's chief",
+        "A pig's head on a stick",
+        "A tribal dance"
+      ],
+      "correctAnswer": 2,
+      "category": "The Island",
+      "difficulty": "hard"
+    },
+    {
+      "question": "Which boy suggests, early on, that they make a list of everyone's names?",
+      "options": [
+        "Ralph",
+        "Piggy",
+        "Simon",
+        "Jack"
+      ],
+      "correctAnswer": 1,
+      "category": "The Island",
+      "difficulty": "hard"
+    },
+    {
+      "question": "What does Jack establish as the new seat of power after splitting from Ralph's group?",
+      "options": [
+        "The beach",
+        "The mountain top",
+        "Castle Rock",
+        "The jungle clearing"
+      ],
+      "correctAnswer": 2,
+      "category": "The Island",
+      "difficulty": "hard"
+    },
+    {
+      "question": "What does the conch shell symbolize in the novel?",
+      "options": [
+        "Order and civilization",
+        "Fear and chaos",
+        "Ralph's power",
+        "The beast"
+      ],
+      "correctAnswer": 0,
+      "category": "Leadership",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Who is initially elected leader of the boys?",
+      "options": [
+        "Jack",
+        "Piggy",
+        "Ralph",
+        "Simon"
+      ],
+      "correctAnswer": 2,
+      "category": "Leadership",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What is Jack's primary motivation for challenging Ralph's leadership?",
+      "options": [
+        "To build shelters",
+        "To hunt and have fun",
+        "To maintain the signal fire",
+        "To befriend Piggy"
+      ],
+      "correctAnswer": 1,
+      "category": "Leadership",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Which boy consistently advocates for rules and order?",
+      "options": [
+        "Roger",
+        "Samneric",
+        "Piggy",
+        "Maurice"
+      ],
+      "correctAnswer": 2,
+      "category": "Leadership",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What role does Piggy primarily play in Ralph's leadership?",
+      "options": [
+        "Muscle",
+        "Advisor",
+        "Hunter",
+        "Storyteller"
+      ],
+      "correctAnswer": 1,
+      "category": "Leadership",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What activity does Jack prioritize over maintaining the signal fire?",
+      "options": [
+        "Building huts",
+        "Exploring the island",
+        "Hunting pigs",
+        "Swimming in the lagoon"
+      ],
+      "correctAnswer": 2,
+      "category": "Leadership",
+      "difficulty": "easy"
+    },
+    {
+      "question": "How does Jack establish his own tribe and leadership?",
+      "options": [
+        "Through democratic election",
+        "By appealing to their fears and desires",
+        "By offering them knowledge",
+        "By sharing his food"
+      ],
+      "correctAnswer": 1,
+      "category": "Leadership",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What is the main reason Ralph struggles to maintain his authority?",
+      "options": [
+        "He is physically weak",
+        "He lacks intelligence",
+        "The boys are more interested in immediate gratification",
+        "He is too strict"
+      ],
+      "correctAnswer": 3,
+      "category": "Leadership",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What does the conch shell symbolize in the novel?",
+      "options": [
+        "Order and civilization",
+        "Fear and chaos",
+        "Ralph's power",
+        "The beast"
+      ],
+      "correctAnswer": 0,
+      "category": "Leadership",
+      "difficulty": "medium"
+    },
+    {
+      "question": "Which boy is initially most enthusiastic about Ralph's leadership and the idea of rules?",
+      "options": [
+        "Jack",
+        "Piggy",
+        "Roger",
+        "Simon"
+      ],
+      "correctAnswer": 1,
+      "category": "Leadership",
+      "difficulty": "medium"
+    },
+    {
+      "question": "What position does Jack initially desire, which he loses to Ralph?",
+      "options": [
+        "Leader of the hunters",
+        "Chief",
+        "Keeper of the fire",
+        "Builder of the shelters"
+      ],
+      "correctAnswer": 1,
+      "category": "Leadership",
+      "difficulty": "medium"
+    },
+    {
+      "question": "What is Ralph's primary focus as leader, which clashes with Jack's priorities?",
+      "options": [
+        "Hunting for food",
+        "Building shelters",
+        "Maintaining a signal fire",
+        "Exploring the island"
+      ],
+      "correctAnswer": 2,
+      "category": "Leadership",
+      "difficulty": "medium"
+    },
+    {
+      "question": "What event signifies the complete breakdown of Ralph's authority and the boys' descent into savagery?",
+      "options": [
+        "The killing of the first pig",
+        "The death of Piggy",
+        "The discovery of the 'beast'",
+        "The boys painting their faces"
+      ],
+      "correctAnswer": 1,
+      "category": "Leadership",
+      "difficulty": "medium"
+    },
+    {
+      "question": "Which character consistently tries to reason and maintain order, acting as Ralph's advisor?",
+      "options": [
+        "Roger",
+        "Samneric",
+        "Piggy",
+        "Maurice"
+      ],
+      "correctAnswer": 2,
+      "category": "Leadership",
+      "difficulty": "medium"
+    },
+    {
+      "question": "What motivates Jack's leadership style and his appeal to the other boys?",
+      "options": [
+        "Fear of the unknown",
+        "Promise of rescue",
+        "Desire for power and hunting",
+        "Interest in building shelters"
+      ],
+      "correctAnswer": 2,
+      "category": "Leadership",
+      "difficulty": "medium"
+    },
+    {
+      "question": "How does Ralph try to reassert his authority after Jack forms his own tribe?",
+      "options": [
+        "By hunting with Jack",
+        "By organizing a feast",
+        "By reminding them of the rules and the fire",
+        "By building a better shelter"
+      ],
+      "correctAnswer": 3,
+      "category": "Leadership",
+      "difficulty": "medium"
+    },
+    {
+      "question": "What does the conch shell symbolize in the novel?",
+      "options": [
+        "Order and civilization",
+        "Fear and chaos",
+        "Ralph's power",
+        "The beast"
+      ],
+      "correctAnswer": 0,
+      "category": "Leadership",
+      "difficulty": "hard"
+    },
+    {
+      "question": "Which character is initially most enthusiastic about establishing rules and order on the island?",
+      "options": [
+        "Jack",
+        "Piggy",
+        "Ralph",
+        "Simon"
+      ],
+      "correctAnswer": 1,
+      "category": "Leadership",
+      "difficulty": "hard"
+    },
+    {
+      "question": "What is the primary reason Jack uses fear of the 'beast' to gain power?",
+      "options": [
+        "To protect the boys",
+        "To undermine Ralph's authority",
+        "To hunt more effectively",
+        "To communicate with the outside world"
+      ],
+      "correctAnswer": 1,
+      "category": "Leadership",
+      "difficulty": "hard"
+    },
+    {
+      "question": "How does Ralph attempt to maintain a sense of community and shared responsibility?",
+      "options": [
+        "By establishing a democratic system",
+        "By focusing solely on hunting",
+        "By ignoring the younger boys",
+        "By declaring himself king"
+      ],
+      "correctAnswer": 0,
+      "category": "Leadership",
+      "difficulty": "hard"
+    },
+    {
+      "question": "What specific event marks the definitive shift in power from Ralph to Jack?",
+      "options": [
+        "The first pig hunt",
+        "The breaking of Piggy's glasses",
+        "The boys' decision to paint their faces",
+        "The killing of Simon"
+      ],
+      "correctAnswer": 2,
+      "category": "Leadership",
+      "difficulty": "hard"
+    },
+    {
+      "question": "Which character consistently advocates for the importance of maintaining a signal fire?",
+      "options": [
+        "Roger",
+        "Samneric",
+        "Piggy",
+        "Maurice"
+      ],
+      "correctAnswer": 2,
+      "category": "Leadership",
+      "difficulty": "hard"
+    },
+    {
+      "question": "What is the significance of Jack establishing his tribe at Castle Rock?",
+      "options": [
+        "It's the highest point on the island",
+        "It provides a natural defensive position and reinforces his authoritarian rule",
+        "It's closest to the rescue ship's route",
+        "It has the best hunting grounds"
+      ],
+      "correctAnswer": 1,
+      "category": "Leadership",
+      "difficulty": "hard"
+    },
+    {
+      "question": "Which of the following is a direct consequence of the boys' descent into savagery under Jack's leadership?",
+      "options": [
+        "Improved shelter construction",
+        "Increased cooperation in hunting",
+        "The loss of innocence and rational thought",
+        "A stronger connection to the natural world"
+      ],
+      "correctAnswer": 2,
+      "category": "Leadership",
+      "difficulty": "hard"
+    },
+    {
+      "question": "What does the conch shell symbolize in the novel?",
+      "options": [
+        "Order and civilization",
+        "Fear and chaos",
+        "Ralph's power",
+        "The beast"
+      ],
+      "correctAnswer": 0,
+      "category": "Savagery vs Civilization",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What does Ralph prioritize above all else for the boys' survival?",
+      "options": [
+        "Building shelters",
+        "Hunting pigs",
+        "Having fun",
+        "Maintaining the signal fire"
+      ],
+      "correctAnswer": 3,
+      "category": "Savagery vs Civilization",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What is Jack primarily focused on throughout the novel?",
+      "options": [
+        "Building shelters",
+        "Maintaining order",
+        "Hunting and providing meat",
+        "Exploring the island"
+      ],
+      "correctAnswer": 2,
+      "category": "Savagery vs Civilization",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Piggy's glasses are most symbolic of what?",
+      "options": [
+        "Weakness",
+        "Intelligence and reason",
+        "Physical strength",
+        "The power of fire"
+      ],
+      "correctAnswer": 1,
+      "category": "Savagery vs Civilization",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What activity does Jack use to lure boys away from Ralph's group?",
+      "options": [
+        "Building a better shelter",
+        "Hunting pigs",
+        "Exploring a cave",
+        "Swimming in the lagoon"
+      ],
+      "correctAnswer": 1,
+      "category": "Savagery vs Civilization",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Which character insists on following the rules and maintaining order?",
+      "options": [
+        "Jack",
+        "Roger",
+        "Ralph",
+        "Simon"
+      ],
+      "correctAnswer": 2,
+      "category": "Savagery vs Civilization",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What is the 'Lord of the Flies' actually?",
+      "options": [
+        "A mythical beast",
+        "A rotting pig's head on a stick",
+        "A powerful demon",
+        "The island itself"
+      ],
+      "correctAnswer": 1,
+      "category": "Savagery vs Civilization",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What does the face paint symbolize for Jack and his hunters?",
+      "options": [
+        "Fear",
+        "Innocence",
+        "Liberation from shame and guilt",
+        "Camouflage"
+      ],
+      "correctAnswer": 2,
+      "category": "Savagery vs Civilization",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What does the conch shell symbolize in the novel?",
+      "options": [
+        "Order and civilization",
+        "Fear and chaos",
+        "Ralph's power",
+        "The beast"
+      ],
+      "correctAnswer": 0,
+      "category": "Savagery vs Civilization",
+      "difficulty": "medium"
+    },
+    {
+      "question": "Which character is most closely associated with intellectualism and reason, and therefore represents civilization?",
+      "options": [
+        "Jack",
+        "Ralph",
+        "Piggy",
+        "Simon"
+      ],
+      "correctAnswer": 2,
+      "category": "Savagery vs Civilization",
+      "difficulty": "medium"
+    },
+    {
+      "question": "What is the hunters' chant that increasingly represents their descent into savagery?",
+      "options": [
+        "Kill the pig, cut her throat, spill her blood",
+        "We want meat, we need meat, give us meat",
+        "Hunt the beast, find the beast, kill the beast",
+        "Ralph is bad, Jack is good, we want food"
+      ],
+      "correctAnswer": 0,
+      "category": "Savagery vs Civilization",
+      "difficulty": "medium"
+    },
+    {
+      "question": "What action signifies Jack's complete rejection of civilization and embrace of savagery?",
+      "options": [
+        "His decision to hunt pigs",
+        "Painting his face with clay",
+        "Forming his own tribe",
+        "Ignoring the signal fire"
+      ],
+      "correctAnswer": 1,
+      "category": "Savagery vs Civilization",
+      "difficulty": "medium"
+    },
+    {
+      "question": "What does the signal fire primarily represent in the context of civilization?",
+      "options": [
+        "Warmth and comfort",
+        "Hope and rescue",
+        "The boys' unity",
+        "Jack's authority"
+      ],
+      "correctAnswer": 1,
+      "category": "Savagery vs Civilization",
+      "difficulty": "medium"
+    },
+    {
+      "question": "Which character attempts to maintain order and reason despite the growing savagery around him?",
+      "options": [
+        "Roger",
+        "Samneric",
+        "Ralph",
+        "Maurice"
+      ],
+      "correctAnswer": 2,
+      "category": "Savagery vs Civilization",
+      "difficulty": "medium"
+    },
+    {
+      "question": "The breaking of Piggy's glasses symbolizes the loss of what?",
+      "options": [
+        "Sight",
+        "Innocence",
+        "Intelligence and clarity",
+        "The ability to make fire"
+      ],
+      "correctAnswer": 2,
+      "category": "Savagery vs Civilization",
+      "difficulty": "medium"
+    },
+    {
+      "question": "What is the 'Lord of the Flies' literally?",
+      "options": [
+        "A mythical beast",
+        "The island's spirit",
+        "A pig's head on a stick",
+        "A swarm of insects"
+      ],
+      "correctAnswer": 3,
+      "category": "Savagery vs Civilization",
+      "difficulty": "medium"
+    },
+    {
+      "question": "What does the conch shell symbolize in the novel?",
+      "options": [
+        "Order and civilization",
+        "Fear and chaos",
+        "Ralph's power",
+        "The beast"
+      ],
+      "correctAnswer": 0,
+      "category": "Savagery vs Civilization",
+      "difficulty": "hard"
+    },
+    {
+      "question": "Which character most strongly advocates for maintaining the rules and structure of civilization?",
+      "options": [
+        "Jack",
+        "Roger",
+        "Piggy",
+        "Simon"
+      ],
+      "correctAnswer": 2,
+      "category": "Savagery vs Civilization",
+      "difficulty": "hard"
+    },
+    {
+      "question": "What is the significance of the painted faces in the novel?",
+      "options": [
+        "To protect them from the sun",
+        "To provide camouflage for hunting",
+        "To liberate them from shame and self-consciousness",
+        "To ward off the beast"
+      ],
+      "correctAnswer": 2,
+      "category": "Savagery vs Civilization",
+      "difficulty": "hard"
+    },
+    {
+      "question": "What is the 'Lord of the Flies' literally?",
+      "options": [
+        "A wild boar",
+        "A signal fire",
+        "A pig's head on a stick",
+        "A type of insect"
+      ],
+      "correctAnswer": 3,
+      "category": "Savagery vs Civilization",
+      "difficulty": "hard"
+    },
+    {
+      "question": "What happens to Piggy's glasses, and what does this event symbolize?",
+      "options": [
+        "They are lost, symbolizing lost hope",
+        "They are broken, symbolizing the breakdown of reason",
+        "They are stolen, symbolizing the rise of savagery",
+        "They are used to start the fire, symbolizing civilization's reliance on technology"
+      ],
+      "correctAnswer": 1,
+      "category": "Savagery vs Civilization",
+      "difficulty": "hard"
+    },
+    {
+      "question": "What is the primary goal of Jack's tribe as it diverges from Ralph's group?",
+      "options": [
+        "Building shelters",
+        "Maintaining the signal fire",
+        "Hunting for meat",
+        "Exploring the island"
+      ],
+      "correctAnswer": 2,
+      "category": "Savagery vs Civilization",
+      "difficulty": "hard"
+    },
+    {
+      "question": "What is the symbolic meaning of the fire on the mountain?",
+      "options": [
+        "Warmth and comfort",
+        "Hope of rescue and connection to civilization",
+        "A source of light and protection from the beast",
+        "A symbol of Jack's power"
+      ],
+      "correctAnswer": 1,
+      "category": "Savagery vs Civilization",
+      "difficulty": "hard"
+    },
+    {
+      "question": "How does the boys' perception of the 'beast' evolve throughout the novel, and what does this evolution represent?",
+      "options": [
+        "From a physical monster to a figment of their imaginations, representing the power of fear",
+        "From a figment of their imaginations to a real threat, representing the dangers of the island",
+        "From a vague concept to a specific creature, representing their growing understanding of the world",
+        "It remains constant, representing their unchanging innocence"
+      ],
+      "correctAnswer": 0,
+      "category": "Savagery vs Civilization",
+      "difficulty": "hard"
+    },
+    {
+      "question": "What does the conch shell symbolize in the novel?",
+      "options": [
+        "Order and civilization",
+        "Fear and chaos",
+        "Ralph's power",
+        "The beast"
+      ],
+      "correctAnswer": 0,
+      "category": "The Beast",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What do Piggy's glasses represent in 'Lord of the Flies'?",
+      "options": [
+        "Intellect and reason",
+        "Physical weakness",
+        "Savagery",
+        "Fear of the unknown"
+      ],
+      "correctAnswer": 0,
+      "category": "The Beast",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What is the 'Lord of the Flies' literally?",
+      "options": [
+        "A pig's head on a stick",
+        "A mythical creature",
+        "The island itself",
+        "A swarm of insects"
+      ],
+      "correctAnswer": 0,
+      "category": "The Beast",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Who first suggests that the 'beast' might be themselves?",
+      "options": [
+        "Simon",
+        "Ralph",
+        "Jack",
+        "Piggy"
+      ],
+      "correctAnswer": 0,
+      "category": "The Beast",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What is the main purpose of the signal fire?",
+      "options": [
+        "To attract rescue",
+        "To cook food",
+        "To scare away the beast",
+        "To provide warmth"
+      ],
+      "correctAnswer": 0,
+      "category": "The Beast",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Which character is most closely associated with the Lord of the Flies?",
+      "options": [
+        "Simon",
+        "Ralph",
+        "Jack",
+        "Piggy"
+      ],
+      "correctAnswer": 0,
+      "category": "The Beast",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What does Jack establish as his primary goal after forming his own tribe?",
+      "options": [
+        "Hunting",
+        "Building shelters",
+        "Maintaining the fire",
+        "Finding fresh water"
+      ],
+      "correctAnswer": 0,
+      "category": "The Beast",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What happens to the conch when Piggy dies?",
+      "options": [
+        "It shatters",
+        "Jack steals it",
+        "Ralph hides it",
+        "It is lost in the sea"
+      ],
+      "correctAnswer": 0,
+      "category": "The Beast",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What does the conch shell symbolize in the novel?",
+      "options": [
+        "Order and civilization",
+        "Fear and chaos",
+        "Ralph's power",
+        "The beast"
+      ],
+      "correctAnswer": 0,
+      "category": "The Beast",
+      "difficulty": "medium"
+    },
+    {
+      "question": "What is the initial source of the boys' fear of the 'beast'?",
+      "options": [
+        "A nightmare shared by several boys",
+        "A giant squid washed ashore",
+        "Jack's fabricated story",
+        "A crashed airplane in the jungle"
+      ],
+      "correctAnswer": 0,
+      "category": "The Beast",
+      "difficulty": "medium"
+    },
+    {
+      "question": "What do Samneric claim to have seen that they believe is the beast?",
+      "options": [
+        "A shadowy figure with claws",
+        "A dead parachutist",
+        "A large boar",
+        "A tribe of natives"
+      ],
+      "correctAnswer": 1,
+      "category": "The Beast",
+      "difficulty": "medium"
+    },
+    {
+      "question": "What is the 'Lord of the Flies'?",
+      "options": [
+        "A mythical creature",
+        "A pig's head on a stick",
+        "A swarm of insects",
+        "The name of the island"
+      ],
+      "correctAnswer": 1,
+      "category": "The Beast",
+      "difficulty": "medium"
+    },
+    {
+      "question": "Who first suggests that the beast might be 'only us'?",
+      "options": [
+        "Ralph",
+        "Piggy",
+        "Simon",
+        "Jack"
+      ],
+      "correctAnswer": 2,
+      "category": "The Beast",
+      "difficulty": "medium"
+    },
+    {
+      "question": "What does Jack's tribe do with the pig's head (the Lord of the Flies)?",
+      "options": [
+        "They bury it as an offering",
+        "They sharpen it on both ends and stick it in the ground as a gift for the beast",
+        "They burn it as a sacrifice",
+        "They eat it in a ritualistic feast"
+      ],
+      "correctAnswer": 1,
+      "category": "The Beast",
+      "difficulty": "medium"
+    },
+    {
+      "question": "What happens to Simon when he tries to tell the others the truth about the beast?",
+      "options": [
+        "He is ignored",
+        "He is celebrated as a hero",
+        "He is killed in a frenzied ritual",
+        "He is exiled from the group"
+      ],
+      "correctAnswer": 2,
+      "category": "The Beast",
+      "difficulty": "medium"
+    },
+    {
+      "question": "What is the ultimate result of the boys' belief in and fear of the beast?",
+      "options": [
+        "Increased cooperation and unity",
+        "Complete societal collapse and savagery",
+        "A strengthened relationship with nature",
+        "Contact with the outside world"
+      ],
+      "correctAnswer": 1,
+      "category": "The Beast",
+      "difficulty": "medium"
+    },
+    {
+      "question": "What specific offering does Jack leave for the beast?",
+      "options": [
+        "A pig's head impaled on a stick",
+        "A pile of gathered fruit",
+        "A signal fire continuously lit",
+        "His own blood sacrifice"
+      ],
+      "correctAnswer": 0,
+      "category": "The Beast",
+      "difficulty": "hard"
+    },
+    {
+      "question": "Simon has a hallucinatory conversation with what object he identifies as the 'Lord of the Flies'?",
+      "options": [
+        "The conch shell",
+        "A rotting log",
+        "The pig's head on a stick",
+        "The signal fire"
+      ],
+      "correctAnswer": 2,
+      "category": "The Beast",
+      "difficulty": "hard"
+    },
+    {
+      "question": "What does the 'Lord of the Flies' tell Simon he represents?",
+      "options": [
+        "Hope and salvation",
+        "Inherent human goodness",
+        "The evil residing within humans",
+        "The importance of rules and order"
+      ],
+      "correctAnswer": 2,
+      "category": "The Beast",
+      "difficulty": "hard"
+    },
+    {
+      "question": "How is Simon killed?",
+      "options": [
+        "He falls from a cliff",
+        "He is accidentally killed by a hunting party in a frenzied state",
+        "He is poisoned by contaminated fruit",
+        "He is killed by Jack in a power struggle"
+      ],
+      "correctAnswer": 1,
+      "category": "The Beast",
+      "difficulty": "hard"
+    },
+    {
+      "question": "What chant do the hunters repeat that is associated with the hunt and the 'beast'?",
+      "options": [
+        "'Kill the pig! Cut her throat! Spill her blood!'",
+        "'Find the beast! Hunt it down! Kill it dead!'",
+        "'Rules are rules! We must obey!'",
+        "'Fire is life! Fire is hope!'"
+      ],
+      "correctAnswer": 0,
+      "category": "The Beast",
+      "difficulty": "hard"
+    },
+    {
+      "question": "What initially leads the boys to believe there is a 'beast' on the island?",
+      "options": [
+        "A nightmare described by a littlun",
+        "Animal tracks found near the beach",
+        "A message carved into a tree",
+        "The discovery of a dead body"
+      ],
+      "correctAnswer": 0,
+      "category": "The Beast",
+      "difficulty": "hard"
+    },
+    {
+      "question": "After Simon's death, what does Ralph suggest the boys call the event?",
+      "options": [
+        "A tragic accident",
+        "A hunting ritual",
+        "A necessary sacrifice",
+        "Murder"
+      ],
+      "correctAnswer": 0,
+      "category": "The Beast",
+      "difficulty": "hard"
+    },
+    {
+      "question": "Where does Percival Wemys Madison claim the beast comes from?",
+      "options": [
+        "The sea",
+        "The jungle",
+        "The sky",
+        "Inside all of them"
+      ],
+      "correctAnswer": 0,
+      "category": "The Beast",
+      "difficulty": "hard"
+    },
+    {
+      "question": "What does the conch shell symbolize in the novel?",
+      "options": [
+        "Order and civilization",
+        "Fear and chaos",
+        "Ralph's power",
+        "The beast"
+      ],
+      "correctAnswer": 0,
+      "category": "Ralph vs Jack",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What is Ralph primarily concerned with throughout the novel?",
+      "options": [
+        "Building shelters and keeping a fire going",
+        "Hunting pigs for food",
+        "Exploring the island",
+        "Making friends with everyone"
+      ],
+      "correctAnswer": 0,
+      "category": "Ralph vs Jack",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What is Jack's primary motivation as the story progresses?",
+      "options": [
+        "The thrill of the hunt and gaining power",
+        "Protecting the younger boys",
+        "Finding a way home",
+        "Maintaining order and discipline"
+      ],
+      "correctAnswer": 0,
+      "category": "Ralph vs Jack",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What does Jack establish when he breaks away from Ralph's group?",
+      "options": [
+        "A tribe focused on hunting and savagery",
+        "A school for the younger boys",
+        "A peaceful farming community",
+        "A search party for rescue"
+      ],
+      "correctAnswer": 0,
+      "category": "Ralph vs Jack",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What is the significance of the fire in Ralph's plan?",
+      "options": [
+        "It is a signal for rescue",
+        "It keeps the beast away",
+        "It provides warmth and light",
+        "It is used for cooking"
+      ],
+      "correctAnswer": 0,
+      "category": "Ralph vs Jack",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Which character is most closely associated with logic and reason in supporting Ralph?",
+      "options": [
+        "Piggy",
+        "Simon",
+        "Roger",
+        "Samneric"
+      ],
+      "correctAnswer": 0,
+      "category": "Ralph vs Jack",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What activity does Jack use to lure boys away from Ralph's group?",
+      "options": [
+        "Hunting pigs",
+        "Building shelters",
+        "Holding meetings",
+        "Collecting fruit"
+      ],
+      "correctAnswer": 0,
+      "category": "Ralph vs Jack",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What is the main reason for the conflict between Ralph and Jack?",
+      "options": [
+        "Their differing priorities and leadership styles",
+        "A fight over a girl",
+        "Disagreement about food distribution",
+        "Jealousy over Piggy's intelligence"
+      ],
+      "correctAnswer": 0,
+      "category": "Ralph vs Jack",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What does the conch shell symbolize in the novel?",
+      "options": [
+        "Order and civilization",
+        "Fear and chaos",
+        "Ralph's power",
+        "The beast"
+      ],
+      "correctAnswer": 0,
+      "category": "Ralph vs Jack",
+      "difficulty": "medium"
+    },
+    {
+      "question": "What is Ralph's primary focus in the early days on the island?",
+      "options": [
+        "Hunting pigs",
+        "Building shelters",
+        "Maintaining the signal fire",
+        "Exploring the island"
+      ],
+      "correctAnswer": 2,
+      "category": "Ralph vs Jack",
+      "difficulty": "medium"
+    },
+    {
+      "question": "What is Jack's initial role within the choir group?",
+      "options": [
+        "Leader and hunter",
+        "Fire builder",
+        "Conch blower",
+        "Shelter designer"
+      ],
+      "correctAnswer": 0,
+      "category": "Ralph vs Jack",
+      "difficulty": "medium"
+    },
+    {
+      "question": "What event directly leads to Jack breaking away from Ralph's group?",
+      "options": [
+        "Ralph scolds him for letting the fire go out",
+        "Jack fails to kill a pig",
+        "Piggy's death",
+        "Ralph refuses to hunt"
+      ],
+      "correctAnswer": 0,
+      "category": "Ralph vs Jack",
+      "difficulty": "medium"
+    },
+    {
+      "question": "What is the name Jack gives to his tribe's headquarters?",
+      "options": [
+        "Castle Rock",
+        "Piggy's Point",
+        "Ralph's Retreat",
+        "Conch Cliff"
+      ],
+      "correctAnswer": 0,
+      "category": "Ralph vs Jack",
+      "difficulty": "medium"
+    },
+    {
+      "question": "What item is stolen from Ralph's group by Jack's tribe in a raid?",
+      "options": [
+        "The conch",
+        "Piggy's glasses",
+        "The signal fire wood",
+        "The shelters"
+      ],
+      "correctAnswer": 1,
+      "category": "Ralph vs Jack",
+      "difficulty": "medium"
+    },
+    {
+      "question": "What is the 'Lord of the Flies' actually?",
+      "options": [
+        "A giant pig",
+        "The island's spirit",
+        "A pig's head on a stick",
+        "A monstrous creature"
+      ],
+      "correctAnswer": 2,
+      "category": "Ralph vs Jack",
+      "difficulty": "medium"
+    },
+    {
+      "question": "What is Ralph's reaction when he is finally rescued?",
+      "options": [
+        "Joy and relief",
+        "Shock and disbelief",
+        "He weeps for the loss of innocence",
+        "Anger at the other boys"
+      ],
+      "correctAnswer": 2,
+      "category": "Ralph vs Jack",
+      "difficulty": "medium"
+    },
+    {
+      "question": "What specific event finally causes Jack to break completely from Ralph's authority and form his own tribe?",
+      "options": [
+        "Ralph's refusal to hunt",
+        "The first successful pig kill",
+        "Ralph's criticism of the hunters",
+        "The argument over building shelters"
+      ],
+      "correctAnswer": 2,
+      "category": "Ralph vs Jack",
+      "difficulty": "hard"
+    },
+    {
+      "question": "During the hunt that leads to Simon's death, what specific animal are Ralph, Jack, and Roger hunting?",
+      "options": [
+        "A wild pig",
+        "A large bird",
+        "A mythical beast",
+        "A stray dog"
+      ],
+      "correctAnswer": 0,
+      "category": "Ralph vs Jack",
+      "difficulty": "hard"
+    },
+    {
+      "question": "What is the explicit reason Jack gives to his tribe for why they need to hunt and kill the beast, even after Simon's revelation?",
+      "options": [
+        "To prove their bravery",
+        "To appease the gods of the island",
+        "To gain more power",
+        "To prevent Ralph from gaining control"
+      ],
+      "correctAnswer": 0,
+      "category": "Ralph vs Jack",
+      "difficulty": "hard"
+    },
+    {
+      "question": "What item does Jack's tribe steal from Ralph's camp that marks a turning point in their descent into savagery?",
+      "options": [
+        "The conch",
+        "Piggy's glasses",
+        "The signal fire wood",
+        "The hunting knives"
+      ],
+      "correctAnswer": 1,
+      "category": "Ralph vs Jack",
+      "difficulty": "hard"
+    },
+    {
+      "question": "Which character initially suggests that the beast might be something that comes from within themselves?",
+      "options": [
+        "Ralph",
+        "Simon",
+        "Piggy",
+        "Jack"
+      ],
+      "correctAnswer": 1,
+      "category": "Ralph vs Jack",
+      "difficulty": "hard"
+    },
+    {
+      "question": "What is the primary method Jack uses to control and influence the boys in his tribe?",
+      "options": [
+        "Logical reasoning",
+        "Fear and intimidation",
+        "Promises of rescue",
+        "Democratic voting"
+      ],
+      "correctAnswer": 1,
+      "category": "Ralph vs Jack",
+      "difficulty": "hard"
+    },
+    {
+      "question": "Besides meat, what other incentive does Jack offer to entice boys to join his tribe at the feast?",
+      "options": [
+        "Protection from the beast",
+        "Face paint and tribal dances",
+        "Unlimited access to fruit",
+        "A chance to be chief"
+      ],
+      "correctAnswer": 1,
+      "category": "Ralph vs Jack",
+      "difficulty": "hard"
+    },
+    {
+      "question": "What specific tactic does Jack employ to flush Ralph out of the thicket at the end of the novel?",
+      "options": [
+        "Setting the island on fire",
+        "Using Piggy's glasses to blind him",
+        "Poisoning the water source",
+        "Releasing wild animals"
+      ],
+      "correctAnswer": 0,
+      "category": "Ralph vs Jack",
+      "difficulty": "hard"
+    },
+    {
+      "question": "What does the conch shell symbolize in the novel?",
+      "options": [
+        "Order and civilization",
+        "Fear and chaos",
+        "Ralph's power",
+        "The beast"
+      ],
+      "correctAnswer": 0,
+      "category": "Fire & Rescue",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What is Piggy's most valued possession, often used to start the fire?",
+      "options": [
+        "His glasses",
+        "His knife",
+        "His conch",
+        "His belt"
+      ],
+      "correctAnswer": 0,
+      "category": "Fire & Rescue",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What do the boys use to signal passing ships?",
+      "options": [
+        "A bonfire",
+        "A signal mirror",
+        "A flare gun",
+        "Smoke from a fire"
+      ],
+      "correctAnswer": 3,
+      "category": "Fire & Rescue",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Who is initially put in charge of maintaining the signal fire?",
+      "options": [
+        "Ralph",
+        "Jack",
+        "Piggy",
+        "Simon"
+      ],
+      "correctAnswer": 1,
+      "category": "Fire & Rescue",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What prevents the boys from being rescued early in the book?",
+      "options": [
+        "A storm",
+        "They forgot to light the fire",
+        "The fire went out",
+        "The ship didn't see them"
+      ],
+      "correctAnswer": 2,
+      "category": "Fire & Rescue",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What does Jack prioritize over maintaining the signal fire?",
+      "options": [
+        "Building shelters",
+        "Hunting pigs",
+        "Exploring the island",
+        "Collecting fruit"
+      ],
+      "correctAnswer": 1,
+      "category": "Fire & Rescue",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What is the first fire lit with?",
+      "options": [
+        "Matches",
+        "Flint and steel",
+        "Piggy's glasses",
+        "Rubbing sticks together"
+      ],
+      "correctAnswer": 2,
+      "category": "Fire & Rescue",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Why is the signal fire important to Ralph?",
+      "options": [
+        "To cook food",
+        "To keep warm at night",
+        "To attract rescue",
+        "To scare away the beast"
+      ],
+      "correctAnswer": 3,
+      "category": "Fire & Rescue",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What does the conch shell symbolize in the novel?",
+      "options": [
+        "Order and civilization",
+        "Fear and chaos",
+        "Ralph's power",
+        "The beast"
+      ],
+      "correctAnswer": 0,
+      "category": "Fire & Rescue",
+      "difficulty": "medium"
+    },
+    {
+      "question": "What is Piggy's real first name?",
+      "options": [
+        "Simon",
+        "Ralph",
+        "Jack",
+        "We don't know"
+      ],
+      "correctAnswer": 3,
+      "category": "Fire & Rescue",
+      "difficulty": "medium"
+    },
+    {
+      "question": "What item does Jack steal from Ralph's tribe during the night?",
+      "options": [
+        "The conch",
+        "Piggy's glasses",
+        "The signal fire wood",
+        "Ralph's spear"
+      ],
+      "correctAnswer": 1,
+      "category": "Fire & Rescue",
+      "difficulty": "medium"
+    },
+    {
+      "question": "What is the 'Lord of the Flies' literally?",
+      "options": [
+        "A large boulder",
+        "A painted rock",
+        "A pig's head on a stick",
+        "A hidden cave"
+      ],
+      "correctAnswer": 3,
+      "category": "Fire & Rescue",
+      "difficulty": "medium"
+    },
+    {
+      "question": "Which character is most closely associated with nature and an understanding of the island's secrets?",
+      "options": [
+        "Ralph",
+        "Piggy",
+        "Simon",
+        "Jack"
+      ],
+      "correctAnswer": 2,
+      "category": "Fire & Rescue",
+      "difficulty": "medium"
+    },
+    {
+      "question": "How does Piggy die?",
+      "options": [
+        "He is stabbed by Jack",
+        "He falls off a cliff",
+        "He is crushed by a boulder",
+        "He drowns in the ocean"
+      ],
+      "correctAnswer": 2,
+      "category": "Fire & Rescue",
+      "difficulty": "medium"
+    },
+    {
+      "question": "What is the boys' primary goal when they first land on the island?",
+      "options": [
+        "Survival",
+        "Having fun",
+        "Building shelters",
+        "Being rescued"
+      ],
+      "correctAnswer": 3,
+      "category": "Fire & Rescue",
+      "difficulty": "medium"
+    },
+    {
+      "question": "What causes the first uncontrolled fire on the island?",
+      "options": [
+        "Negligence while cooking",
+        "Jack deliberately setting the forest ablaze",
+        "Lightning",
+        "Piggy's glasses reflecting sunlight"
+      ],
+      "correctAnswer": 3,
+      "category": "Fire & Rescue",
+      "difficulty": "medium"
+    },
+    {
+      "question": "What does the conch shell symbolize in the novel?",
+      "options": [
+        "Order and civilization",
+        "Fear and chaos",
+        "Ralph's power",
+        "The beast"
+      ],
+      "correctAnswer": 0,
+      "category": "Fire & Rescue",
+      "difficulty": "hard"
+    },
+    {
+      "question": "What is the primary purpose of maintaining the signal fire?",
+      "options": [
+        "To cook food",
+        "To attract passing ships for rescue",
+        "To provide warmth at night",
+        "To scare away the beast"
+      ],
+      "correctAnswer": 1,
+      "category": "Fire & Rescue",
+      "difficulty": "hard"
+    },
+    {
+      "question": "Which character is most insistent on maintaining the signal fire?",
+      "options": [
+        "Jack",
+        "Roger",
+        "Piggy",
+        "Ralph"
+      ],
+      "correctAnswer": 3,
+      "category": "Fire & Rescue",
+      "difficulty": "hard"
+    },
+    {
+      "question": "What causes the first uncontrolled fire on the island?",
+      "options": [
+        "Lightning strike",
+        "Jack's hunting party",
+        "Piggy's glasses reflecting sunlight",
+        "Deliberate arson by Roger"
+      ],
+      "correctAnswer": 2,
+      "category": "Fire & Rescue",
+      "difficulty": "hard"
+    },
+    {
+      "question": "During one of the hunts, what does Jack use to paint his face, which influences his behavior?",
+      "options": [
+        "Clay and charcoal",
+        "Berry juice and mud",
+        "Blood and ashes",
+        "Plant dyes and sand"
+      ],
+      "correctAnswer": 0,
+      "category": "Fire & Rescue",
+      "difficulty": "hard"
+    },
+    {
+      "question": "What event directly leads to the permanent loss of Piggy's glasses, essential for lighting the fire?",
+      "options": [
+        "A fight over the conch",
+        "Jack stealing them during the night",
+        "Piggy accidentally breaking them",
+        "A coordinated attack on Ralph's group"
+      ],
+      "correctAnswer": 3,
+      "category": "Fire & Rescue",
+      "difficulty": "hard"
+    },
+    {
+      "question": "How is the signal fire ultimately used at the end of the novel?",
+      "options": [
+        "To cook the pig",
+        "To scare away the naval officer",
+        "To smoke out Ralph",
+        "To create a diversion"
+      ],
+      "correctAnswer": 2,
+      "category": "Fire & Rescue",
+      "difficulty": "hard"
+    },
+    {
+      "question": "What is the significance of the fire dying out when a ship passes by?",
+      "options": [
+        "It symbolizes the loss of hope",
+        "It foreshadows Piggy's death",
+        "It proves Jack's superiority",
+        "It represents the power of the beast"
+      ],
+      "correctAnswer": 0,
+      "category": "Fire & Rescue",
+      "difficulty": "hard"
+    },
+    {
+      "question": "What does the conch shell symbolize in the novel?",
+      "options": [
+        "Order and civilization",
+        "Fear and chaos",
+        "Ralph's power",
+        "The beast"
+      ],
+      "correctAnswer": 0,
+      "category": "Endings",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What is the boys' reaction to the naval officer at the end of the book?",
+      "options": [
+        "Excitement and joy",
+        "Shame and weeping",
+        "Anger and defiance",
+        "Indifference and apathy"
+      ],
+      "correctAnswer": 1,
+      "category": "Endings",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What is Ralph doing when the naval officer finds him?",
+      "options": [
+        "Sleeping by the fire",
+        "Hunting for pigs",
+        "Crying for the loss of innocence",
+        "Building a shelter"
+      ],
+      "correctAnswer": 2,
+      "category": "Endings",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What question does the naval officer ask the boys, revealing his naivety?",
+      "options": [
+        "Have you been having fun?",
+        "Are there any adults here?",
+        "Who is your leader?",
+        "Have you killed anyone?"
+      ],
+      "correctAnswer": 0,
+      "category": "Endings",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What is burning out of control when the naval officer arrives?",
+      "options": [
+        "The signal fire",
+        "The island's jungle",
+        "Ralph's shelter",
+        "The boys' faces"
+      ],
+      "correctAnswer": 1,
+      "category": "Endings",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What does the naval officer represent at the end of the novel?",
+      "options": [
+        "Rescue and salvation",
+        "The adult world and its flaws",
+        "A new form of leadership",
+        "The boys' lost innocence"
+      ],
+      "correctAnswer": 1,
+      "category": "Endings",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Who claims to be the leader when the naval officer asks?",
+      "options": [
+        "Jack",
+        "Piggy",
+        "Simon",
+        "Ralph"
+      ],
+      "correctAnswer": 3,
+      "category": "Endings",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What does Ralph weep for at the end of the novel?",
+      "options": [
+        "The death of Piggy",
+        "The darkness of man's heart",
+        "The loss of his parents",
+        "The destruction of the island"
+      ],
+      "correctAnswer": 1,
+      "category": "Endings",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What does the conch shell symbolize in the novel?",
+      "options": [
+        "Order and civilization",
+        "Fear and chaos",
+        "Ralph's power",
+        "The beast"
+      ],
+      "correctAnswer": 0,
+      "category": "Endings",
+      "difficulty": "medium"
+    },
+    {
+      "question": "What is Piggy holding when he dies?",
+      "options": [
+        "His glasses",
+        "The conch shell",
+        "A sharpened stick",
+        "A piece of fruit"
+      ],
+      "correctAnswer": 1,
+      "category": "Endings",
+      "difficulty": "medium"
+    },
+    {
+      "question": "What is the significance of the naval officer's arrival at the end of the book?",
+      "options": [
+        "He represents rescue and hope",
+        "He symbolizes the adult world and its own flaws",
+        "He is a figment of Ralph's imagination",
+        "He embodies the beast"
+      ],
+      "correctAnswer": 1,
+      "category": "Endings",
+      "difficulty": "medium"
+    },
+    {
+      "question": "What is Ralph doing when the naval officer finds him?",
+      "options": [
+        "Hunting pigs",
+        "Crying",
+        "Building a shelter",
+        "Sleeping"
+      ],
+      "correctAnswer": 1,
+      "category": "Endings",
+      "difficulty": "medium"
+    },
+    {
+      "question": "What does Jack's tribe intend to do with Ralph if they catch him at the end?",
+      "options": [
+        "Make him chief",
+        "Torture him",
+        "Kill him and mount his head on a stick",
+        "Force him to join their tribe"
+      ],
+      "correctAnswer": 2,
+      "category": "Endings",
+      "difficulty": "medium"
+    },
+    {
+      "question": "What is the immediate cause of Piggy's death?",
+      "options": [
+        "He falls off a cliff",
+        "Jack stabs him with a spear",
+        "Roger pushes a boulder onto him",
+        "He succumbs to illness"
+      ],
+      "correctAnswer": 2,
+      "category": "Endings",
+      "difficulty": "medium"
+    },
+    {
+      "question": "What does the fire, initially intended for rescue, ultimately become at the end?",
+      "options": [
+        "A signal for a passing ship",
+        "A source of warmth and comfort",
+        "A hunting tool to smoke out Ralph",
+        "A sacred flame dedicated to the beast"
+      ],
+      "correctAnswer": 2,
+      "category": "Endings",
+      "difficulty": "medium"
+    },
+    {
+      "question": "What question does the naval officer ask that causes Ralph to cry?",
+      "options": [
+        "'Are there any adults on the island?'",
+        "'Who is the leader here?'",
+        "'Having a good time are you?'",
+        "'Are there any dead bodies?'"
+      ],
+      "correctAnswer": 2,
+      "category": "Endings",
+      "difficulty": "medium"
+    },
+    {
+      "question": "What specific naval vessel arrives to rescue the boys at the end of the novel?",
+      "options": [
+        "A destroyer",
+        "A frigate",
+        "A cruiser",
+        "A minesweeper"
+      ],
+      "correctAnswer": 2,
+      "category": "Endings",
+      "difficulty": "hard"
+    },
+    {
+      "question": "What is Ralph doing when he first encounters the naval officer on the beach?",
+      "options": [
+        "Crying over Piggy's death",
+        "Hunting Jack",
+        "Building a signal fire",
+        "Searching for food"
+      ],
+      "correctAnswer": 0,
+      "category": "Endings",
+      "difficulty": "hard"
+    },
+    {
+      "question": "What question does the naval officer ask that prompts Ralph to cry even harder?",
+      "options": [
+        "'Who is the leader here?'",
+        "'Are there any adults?'",
+        "'Having a good time are you?'",
+        "'Where are the rest of you?'"
+      ],
+      "correctAnswer": 2,
+      "category": "Endings",
+      "difficulty": "hard"
+    },
+    {
+      "question": "What is specifically burning on the island when the naval officer arrives?",
+      "options": [
+        "The entire jungle",
+        "The signal fire",
+        "A small patch of trees",
+        "The boys' shelters"
+      ],
+      "correctAnswer": 0,
+      "category": "Endings",
+      "difficulty": "hard"
+    },
+    {
+      "question": "What is the naval officer's initial reaction upon seeing the painted faces and weapons?",
+      "options": [
+        "Amusement and a joking remark",
+        "Shock and immediate intervention",
+        "Confusion and disbelief",
+        "Anger and threats of punishment"
+      ],
+      "correctAnswer": 0,
+      "category": "Endings",
+      "difficulty": "hard"
+    },
+    {
+      "question": "What 'game' does the officer incorrectly assume the boys are playing when he arrives?",
+      "options": [
+        "Hide and seek",
+        "War",
+        "Pirates",
+        "Cops and robbers"
+      ],
+      "correctAnswer": 1,
+      "category": "Endings",
+      "difficulty": "hard"
+    },
+    {
+      "question": "What does Ralph realize, in addition to Piggy's death, that contributes to his emotional breakdown at the end?",
+      "options": [
+        "The loss of innocence and wisdom",
+        "The futility of his leadership",
+        "The savagery within himself and others",
+        "The impossibility of rescue"
+      ],
+      "correctAnswer": 2,
+      "category": "Endings",
+      "difficulty": "hard"
+    },
+    {
+      "question": "What is the symbolic significance of the naval officer turning away 'to give them time to pull themselves together'?",
+      "options": [
+        "The officer is embarrassed by their behavior",
+        "The officer represents the adult world's own failings",
+        "The officer is going to radio for backup",
+        "The officer doesn't want to interfere with their game"
+      ],
+      "correctAnswer": 1,
+      "category": "Endings",
+      "difficulty": "hard"
+    }
+  ]
+}
