@@ -35,6 +35,21 @@ export const CH_02: Chapter = {
       context:
         "The littlun who disappears is identified only by \"the boy with the mulberry-coloured birthmark\" — he's never actually given a name. That absence is deliberate.",
     },
+    {
+      word: "scar",
+      definition: "A mark left by damage that has mostly healed — here, the raw trail the crashed plane tore through the jungle.",
+      context: "Golding calls it \"the scar\" throughout this chapter — the boys' first, most literal wound on the island, long before anything happens to one of them.",
+    },
+    {
+      word: "swathe",
+      definition: "A broad strip or band of something, especially one cut or cleared through a larger area.",
+      context: "Used for both the plane's crash-path and, later in the chapter, the creepers torn up as the signal fire tears through the mountainside — destruction repeating itself in the same word.",
+    },
+    {
+      word: "sapling",
+      definition: "A young, slender tree.",
+      context: "The saplings crowding up through the old scar are exactly what the out-of-control fire ends up burning — new growth undone almost as soon as it starts.",
+    },
   ],
   closeReading: [
     {
