@@ -1,0 +1,25 @@
+{
+  "$schema": "./node_modules/wrangler/config-schema.json",
+  "name": "lotf-companion",
+  "main": ".open-next/worker.js",
+  "compatibility_date": "2026-06-01",
+  "compatibility_flags": ["nodejs_compat", "global_fetch_strictly_public"],
+  "assets": {
+    "directory": ".open-next/assets",
+    "binding": "ASSETS"
+  },
+  "workers_dev": true,
+  "routes": [{ "pattern": "lotf.mrbell.app", "custom_domain": true }],
+  "services": [
+    { "binding": "WORKER_SELF_REFERENCE", "service": "lotf-companion" }
+  ],
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_name": "lotf-companion",
+      "database_id": "4a91cf92-0132-468c-83bd-24fe3a0e7204",
+      "migrations_dir": "./drizzle"
+    }
+  ],
+  "observability": { "enabled": true }
+}

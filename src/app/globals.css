@@ -1,0 +1,50 @@
+@import "tailwindcss";
+
+:root {
+  /* Part 1 — Order: warm island greens/blues, sun on water */
+  --color-part1-bg: #f5f1e3;
+  --color-part1-ink: #1f3d34;
+  --color-part1-accent: #1b7a6b;
+  --color-part1-accent-soft: #d6ead8;
+
+  /* Part 2 — Fracture: dusk, smoke starting to show */
+  --color-part2-bg: #f1e6d8;
+  --color-part2-ink: #3d2a1f;
+  --color-part2-accent: #c9691f;
+  --color-part2-accent-soft: #f2dcc3;
+
+  /* Part 3 — Collapse: ash and blood-orange */
+  --color-part3-bg: #ece2df;
+  --color-part3-ink: #3a1414;
+  --color-part3-accent: #b2321e;
+  --color-part3-accent-soft: #f0d3cc;
+
+  --color-ink: #1c1a17;
+  --color-paper: #fbf8f2;
+  --color-muted: #8b8577;
+  --color-border: #ddd5c4;
+
+  --font-display: var(--font-fraunces);
+  --font-body: var(--font-source-sans);
+}
+
+body {
+  background: var(--color-paper);
+  color: var(--color-ink);
+  font-family: var(--font-body);
+}
+
+h1, h2, h3, .font-display {
+  font-family: var(--font-display);
+}
+
+/* Grain texture applied over part-themed sections for a worn, sun-bleached
+   page feel rather than flat digital color. */
+.grain::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  pointer-events: none;
+  opacity: 0.05;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='120' height='120'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='2' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E");
+}

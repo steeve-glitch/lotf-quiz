@@ -1,0 +1,29 @@
+# Copy to .dev.vars (gitignored) and fill in real values for local dev.
+
+# Google SSO — reuse the existing OAuth client in GCP project displacement-95b6f
+# (stjohns.cl org, Internal consent screen), the same one paragraph-app / io-app use.
+# Add http://localhost:3000/api/auth/google/callback as an authorized redirect
+# URI on that client for local dev, and https://lotf.mrbell.app/api/auth/google/callback
+# for prod.
+GOOGLE_OAUTH_CLIENT_ID=
+GOOGLE_OAUTH_CLIENT_SECRET=
+
+# Random 32+ char secret for signing session cookies. Generate with:
+#   openssl rand -hex 32
+# Do not reuse the value from paragraph-app or io-app — each app gets its own.
+AUTH_SECRET=
+
+STUDENT_EMAIL_DOMAIN=students.stjohns.cl
+STAFF_EMAIL_DOMAIN=stjohns.cl
+# Comma-separated allowlist of emails granted teacher access regardless of domain.
+ADMIN_EMAILS=sbell@stjohns.cl
+
+# Break-glass staff password login (used only if Google sign-in is unavailable).
+ADMIN_PASSWORD=
+
+# The reading companion chatbot — claude-haiku-4-5.
+ANTHROPIC_API_KEY=
+
+# Comma-separated emails allowed to sign in without matching either domain
+# above (useful for local testing before the GCP redirect URI is confirmed).
+TEST_EMAILS=
