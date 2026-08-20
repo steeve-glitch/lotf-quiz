@@ -6,14 +6,14 @@ export const CH_10: Chapter = {
   title: "The Shell and the Glasses",
   part: 3,
   summary:
-    "Ralph and Piggy, badly shaken, try to make sense of what happened at Castle Rock. Ralph, furious and horrified, snaps at the few boys left with him that they're \"all savages\" — before quietly starting to insist, along with Piggy, that they themselves \"weren't really there,\" that they left early, that it doesn't count the same way for them. Only a handful remain in Ralph's camp now: Piggy, Sam and Eric, and the littluns. That night, Jack's tribe — now fully organized around fear and loyalty to Jack as something closer to a tyrant than a chief — raids the diminished camp in the dark. It isn't food or weapons they're after. They come for one specific thing: Piggy's glasses, the only tool left on the island that can start a fire. In the chaos of the raid, Piggy is hit again. By morning, what's left of Ralph's group realizes the glasses are gone — and with them, any way to light a fire at all.",
+    "Ralph and Piggy, badly shaken, try to make sense of what happened at Castle Rock. Ralph says it plainly, once, to Piggy: \"That was murder.\" Piggy, panicking, insists over and over that it was an accident, that it doesn't count the same way for them, that they need to just forget it. Only a handful remain in Ralph's camp now: Piggy, Sam and Eric, and the littluns. That night, Jack's tribe — now fully organized around fear and loyalty to Jack as something closer to a tyrant than a chief — raids the diminished camp in the dark. It isn't food or weapons they're after. They come for one specific thing: Piggy's glasses, the only tool left on the island that can start a fire. In the chaos of the raid, Piggy is hit again. By morning, what's left of Ralph's group realizes the glasses are gone — and with them, any way to light a fire at all.",
   quote: {
-    text: "You're all savages.",
+    text: "It was an accident, and that's that.",
     context:
-      "Ralph, to the handful of boys still with him, in the raw aftermath of Castle Rock. It's the first time he says the word out loud — and it isn't really clear, even to him, who he means it for.",
+      "Piggy, insisting to Ralph, more than once, in the raw aftermath of Castle Rock. He needs it to be true more than he actually believes it.",
   },
   vocabulary: [
-    { word: "complicity", definition: "The state of being involved with others in an activity that is unlawful or morally wrong.", context: "What Ralph and Piggy are quietly avoiding naming when they insist they \"weren't really there\" the night before." },
+    { word: "complicity", definition: "The state of being involved with others in an activity that is unlawful or morally wrong.", context: "What Ralph and Piggy are quietly avoiding naming when Piggy insists, again and again, that it was only an accident." },
     { word: "surreptitious", definition: "Kept secret, especially because it would not be approved of; done stealthily.", context: "How the raid on Ralph's camp is carried out — a deliberate night attack, not an open confrontation." },
     { word: "gnawing", definition: "Persistently painful or worrying (often describing guilt, doubt, or hunger).", context: "The kind of guilt Ralph and Piggy are each trying, and failing, to talk themselves out of feeling." },
     { word: "callous", definition: "Showing or having an insensitivity to the feelings of others.", context: "How Jack's tribe behaves during the raid — taking exactly what they need and leaving Piggy hurt without a second thought." },
@@ -21,7 +21,7 @@ export const CH_10: Chapter = {
   closeReading: [
     {
       passage:
-        "Ralph and Piggy separately insist to each other that they \"left early\" the night before, and that whatever happened to Simon doesn't really implicate them the way it does the others.",
+        "Ralph says it once, plainly: \"That was murder.\" Piggy panics, and instead insists — three separate times — that it was an accident, that Simon \"asked for it\" by crawling out of the dark, and that they need to just forget it.",
       question: "What does this rationalizing reveal about how people cope with having taken part in something they can't fully justify?",
       options: [
         {

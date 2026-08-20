@@ -8,9 +8,9 @@ export const CH_09: Chapter = {
   summary:
     "A storm builds through the whole chapter, thick and electric, mirroring the pressure building in the group. Hungry and increasingly isolated, Ralph and Piggy decide to go to Jack's feast at Castle Rock that evening — drawn partly by the promise of meat, partly by some faint hope that things might still be mended. Meanwhile Simon, still weak from his encounter with the pig's head, makes his way up the mountain and finally sees the truth clearly: the \"beast\" is only the dead parachutist, his body and chute tangled and moved by the wind. Simon frees the tangled body and starts down the mountain in the dark and the storm, desperate to reach the others and tell them what he's found before anyone gets hurt over a lie. He stumbles, disoriented, straight into the middle of Jack's tribe's ritual dance — chanting, drumming, working themselves into a frenzy around their fire — at the exact moment thunder cracks overhead. Mistaken in the darkness and chaos for the beast itself, Simon is killed by the group in the chant's climax, the fear he was racing to end turning on him instead. Ralph and Piggy, who had joined the circle, are caught up in it too. Afterward, the storm breaks, and the rain and the tide carry Simon's body gently out to sea, lit by the faint glow of the ocean's own light.",
   quote: {
-    text: "Kill the pig! Cut her throat! Spill her blood!",
+    text: "Kill the beast! Cut his throat! Spill his blood!",
     context:
-      "The same chant first heard in Chapter 4, now darker and more frenzied — and, this time, not aimed at a pig at all.",
+      "The same chant first heard in Chapter 4 — but the words themselves have shifted along with everything else. It isn't \"the pig\" and \"her\" blood anymore. It's \"the beast,\" and \"his.\"",
   },
   vocabulary: [
     { word: "frenzy", definition: "A state of wild or uncontrolled activity or emotion.", context: "What the ritual dance becomes as the storm builds — the word Golding uses for the exact moment control disappears entirely." },

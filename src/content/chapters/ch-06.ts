@@ -8,8 +8,8 @@ export const CH_06: Chapter = {
   summary:
     "In the night, far above the island, a battle happens in the sky — unseen and unexplained to the boys — and a dead parachutist drifts down onto the mountain, his parachute catching the wind so that the body seems to sit up and slump over again and again in the gusts. Sam and Eric, on fire duty, wake to see the shape in the dark and are terrified out of their minds; they run back to camp convinced they've seen the beast up close, with teeth and eyes. Ralph, cornered by his own rule that fear has to be checked out rather than just believed, organizes an expedition up the mountain. Jack goads him the whole way, testing whether Ralph really has the nerve for this the way a hunter would. They explore Castle Rock along the way — a natural fortress at the far end of the island that Jack is clearly drawn to. They don't reach the top of the mountain by nightfall, and the real test is still ahead.",
   quote: {
-    text: "It's got teeth — and big black eyes.",
-    context: "Sam and Eric, still shaking, describing what they saw on the mountain. The reader has more information than they do — nobody on the island knows what a parachute looks like at night.",
+    text: "There were eyes― ... Teeth― ... Claws―",
+    context: "Sam and Eric, still shaking, describing what they saw on the mountain in short, fragmented bursts. The reader has more information than they do — nobody on the island knows what a parachute looks like at night.",
   },
   vocabulary: [
     { word: "vigil", definition: "A period of watchful attention, especially at night.", context: "What Sam and Eric are technically doing on fire duty when they see the shape on the mountain." },

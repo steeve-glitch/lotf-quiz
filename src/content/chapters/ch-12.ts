@@ -144,8 +144,8 @@ export const CH_12: Chapter = {
   },
   trivia: [
     {
-      question: "What question does the naval officer ask that causes Ralph to cry?",
-      options: ["\"Where are your parents?\"", "\"Having a good time are you?\"", "\"What's your name?\"", "\"Is anyone hurt?\""],
+      question: "What does the officer say, comparing the island to a children's adventure story, right before Ralph breaks down crying?",
+      options: ["\"Where are your parents?\"", "\"Jolly good show. Like the Coral Island.\"", "\"What's your name?\"", "\"Is anyone hurt?\""],
       correctAnswer: 1,
       category: "Endings",
       difficulty: "medium",

@@ -8,7 +8,7 @@ export const CH_05: Chapter = {
   summary:
     "Ralph calls the most serious assembly yet, determined to lay down clear rules — about the fire, about using the rocks as a toilet, about fear — before things get any worse. Piggy makes his big, rational case: there's no reason to believe in a beast, because \"life is scientific.\" But a small littlun named Percival Wemys Madison, prompted to speak, dissolves into tears and lets slip that the beast comes from the sea. Panic spreads. Simon tries to say something true and hard to explain — that maybe the beast isn't a creature at all, maybe \"it's only us\" — and can't find the words before the group laughs him down. The assembly falls apart. Jack, furious at being told what to do yet again, declares outright that the rules — and the conch — don't matter anymore, and storms off. Most of the older boys drift after him, buzzing with the thrill of finally being told they can just do what they want. Ralph, Piggy, and Simon are left with the littluns, and for the first time Ralph understands, fully, how close to breaking the group already is.",
   quote: {
-    text: "I know there isn't no beast — not with claws and all that, I mean — but I know there isn't no fear, either, unless we get frightened of people.",
+    text: "I know there isn't no beast — not with claws and all that, I mean — but I know there isn't no fear, either... Unless we get frightened of people.",
     context: "Piggy, trying to reason the group out of its fear at the worst possible moment. He's not wrong — but being right has never been enough to make people listen to Piggy.",
   },
   vocabulary: [

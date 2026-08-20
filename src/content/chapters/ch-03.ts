@@ -8,9 +8,9 @@ export const CH_03: Chapter = {
   summary:
     "Jack, obsessed, tracks a pig through the jungle alone — reading the ground, the droppings, the movement of the undergrowth — and comes back empty-handed and frustrated. Meanwhile Ralph and Simon work almost alone building shelters; most of the other boys have drifted off to swim or play, uninterested in the labor. Ralph and Jack argue on the beach: Ralph wants help with the huts and the fire; Jack cares only about hunting. Neither can really explain to the other why what they're doing matters so much. Simon, unlike the rest, doesn't join the swimming or the arguing — he slips away alone into the jungle, to a hidden clearing full of white, sweet-smelling flowers that only open at night, and sits there quietly by himself.",
   quote: {
-    text: "We need smoke!",
+    text: "I was talking about smoke! Don't you want to be rescued? All you can talk about is pig, pig, pig!",
     context:
-      "Ralph, exasperated, trying to get anyone to care about the signal fire as much as he does. It's a small line, but it's the whole chapter — Ralph is the only one still keeping score on rescue.",
+      "Ralph, exasperated with Jack, who's just gotten distracted mid-conversation by the thought of hunting. It's a small exchange, but it's the whole chapter — Ralph is the only one still keeping score on rescue.",
   },
   vocabulary: [
     {

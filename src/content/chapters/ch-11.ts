@@ -10,7 +10,7 @@ export const CH_11: Chapter = {
   quote: {
     text: "Which is better — to have rules and agree, or to hunt and kill?",
     context:
-      "Piggy's last words, spoken to Jack's tribe at Castle Rock moments before his death — still trying, to the very end, to win the argument with reason.",
+      "Piggy, shouting over the tribe's jeering, moments before Roger releases the boulder — still trying, to the very end, to win the argument with reason rather than force.",
   },
   vocabulary: [
     { word: "precarious", definition: "Not securely held or in position; dangerously likely to fall or collapse.", context: "Both the physical position of the group at Castle Rock's edge, and the state of whatever's left of the old order." },
@@ -78,7 +78,7 @@ export const CH_11: Chapter = {
   characterUpdates: [
     { character: "ralph", position: 30, note: "Fights for the glasses and the conch, loses everything, and is now hunted by the group he used to lead — but never becomes a hunter himself." },
     { character: "jack", position: -85, note: "Rules Castle Rock as an outright tyrant, openly hostile, presiding over Piggy's death without hesitation." },
-    { character: "piggy", position: 65, note: "Dies holding the conch, still arguing for reason over violence to the very last word he speaks. His convictions never waver." },
+    { character: "piggy", position: 65, note: "His last recorded words argue for reason over violence. He dies moments later, still holding the conch, without another word. His convictions never waver." },
     { character: "roger", position: -100, note: "Deliberately dislodges the boulder that kills Piggy — the moment every trace of restraint from Chapter 4 is finally, completely gone." },
   ],
   reflection: {
@@ -105,8 +105,8 @@ export const CH_11: Chapter = {
       difficulty: "easy",
     },
     {
-      question: "What are Piggy's final words before his death?",
-      options: ["\"I want to go home.\"", "\"I got the conch! You let me speak!\"", "\"Ralph, help me!\"", "\"Where are my glasses?\""],
+      question: "What does Piggy hold up as he tries to make the tribe listen to him at Castle Rock?",
+      options: ["A spear", "The conch", "His broken glasses", "A white flag"],
       correctAnswer: 1,
       category: "Quotes",
       difficulty: "medium",

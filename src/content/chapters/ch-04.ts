@@ -8,7 +8,7 @@ export const CH_04: Chapter = {
   summary:
     "Life on the island has settled into a rhythm, and the littluns' whole world has shrunk to eating, playing, and fearing the dark. Roger and Maurice kick apart littluns' sandcastles; Roger picks up stones and throws them near — but not at — a littlun named Henry, some old instinct still holding him back from actually hitting. Jack, still failing to catch a pig, starts painting his face with clay and charcoal — and Golding notes something shifts in him behind the mask, a kind of freedom from being seen and known as himself. A ship appears on the horizon — their one real chance at rescue — but the signal fire has gone out, because Jack pulled everyone off fire duty to join the hunt. The ship passes without seeing them. Ralph is furious. In the same breath, Jack's hunters finally kill their first pig, triumphant and covered in blood, chanting as they carry it back. The celebration collides head-on with Ralph's fury over the missed ship; in the fight that follows, Jack punches Piggy and cracks one lens of his glasses.",
   quote: {
-    text: "Kill the pig! Spill her blood!",
+    text: "Kill the pig. Cut her throat. Spill her blood.",
     context: "The hunters' chant, heard for the first time as they return triumphant from their first successful kill.",
   },
   vocabulary: [
