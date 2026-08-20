@@ -2,6 +2,7 @@
 
 import { useEffect, useRef, useState } from "react";
 import { useChatbot } from "./ChatbotContext";
+import { SavageIcon } from "./SavageIcon";
 
 interface ChatMessage {
   sender: "user" | "ai";
@@ -15,11 +16,17 @@ export function Chatbot() {
     <>
       <button
         onClick={toggleChat}
-        className="fixed bottom-5 right-5 z-40 h-14 w-14 rounded-full shadow-lg flex items-center justify-center text-white transition-transform hover:scale-105"
+        className="fixed bottom-5 right-5 z-40 h-14 w-14 rounded-full shadow-lg flex items-center justify-center transition-transform hover:scale-105"
         style={{ background: "var(--color-part1-accent)" }}
         aria-label={isOpen ? "Close reading companion" : "Open reading companion"}
       >
-        {isOpen ? "✕" : "💬"}
+        {!isOpen && (
+          <span
+            className="absolute inset-0 rounded-full animate-ping"
+            style={{ background: "var(--color-part1-accent)", opacity: 0.6 }}
+          />
+        )}
+        <span className="relative">{isOpen ? <span className="text-white text-xl">✕</span> : <SavageIcon />}</span>
       </button>
 
       {/* Keyed by unitId so moving to a new chapter/checkpoint remounts the

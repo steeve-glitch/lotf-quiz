@@ -17,6 +17,7 @@ import { SavageStampede } from "./SavageStampede";
 interface Step {
   id: string;
   label: string;
+  instruction: string;
   content: ReactNode;
 }
 
@@ -42,6 +43,7 @@ export function ChapterFlow({
     {
       id: "intro",
       label: "This chapter",
+      instruction: "A quick recap of what happens, plus one quote worth remembering — you don't need to reread the chapter here.",
       content: (
         <div className="space-y-6">
           <section className="torn-card grain rounded-xl border border-[var(--color-border)] bg-white p-5">
@@ -62,16 +64,51 @@ export function ChapterFlow({
         </div>
       ),
     },
-    { id: "vocabulary", label: "Vocabulary", content: <VocabularyActivity terms={chapter.vocabulary} /> },
-    { id: "close-reading", label: "Close reading", content: <CloseReadingActivity passages={chapter.closeReading} /> },
-    { id: "symbols", label: "Symbol tracker", content: <SymbolTracker updates={chapter.symbolUpdates} /> },
-    { id: "characters", label: "Character tracker", content: <CharacterArcTracker updates={chapter.characterUpdates} /> },
+    {
+      id: "vocabulary",
+      label: "Vocabulary",
+      instruction: "Read through each word — these are the ones most likely to trip you up in this chapter.",
+      content: <VocabularyActivity terms={chapter.vocabulary} />,
+    },
+    {
+      id: "close-reading",
+      label: "Close reading",
+      instruction: "Pick the answer that best explains what Golding is doing. You'll get feedback either way, and a deeper insight once you get it right.",
+      content: <CloseReadingActivity passages={chapter.closeReading} />,
+    },
+    {
+      id: "symbols",
+      label: "Symbol tracker",
+      instruction: "See how each symbol's status has shifted since last chapter.",
+      content: <SymbolTracker updates={chapter.symbolUpdates} />,
+    },
+    {
+      id: "characters",
+      label: "Character tracker",
+      instruction: "See where each character has moved on the savagery–civilization scale this chapter.",
+      content: <CharacterArcTracker updates={chapter.characterUpdates} />,
+    },
     ...(chapter.paragraphBuilder
-      ? [{ id: "paragraph", label: "Write about it", content: <ParagraphBuilder data={chapter.paragraphBuilder} /> }]
+      ? [{
+          id: "paragraph",
+          label: "Write about it",
+          instruction: "Build one analytical paragraph, one step at a time.",
+          content: <ParagraphBuilder data={chapter.paragraphBuilder} />,
+        }]
       : []),
-    { id: "reflection", label: "Reflect", content: <ReflectionActivity data={chapter.reflection} /> },
+    {
+      id: "reflection",
+      label: "Reflect",
+      instruction: "Write a short personal response — there's no right answer here.",
+      content: <ReflectionActivity data={chapter.reflection} />,
+    },
     ...(chapter.trivia.length > 0
-      ? [{ id: "trivia", label: "Quick trivia", content: <TriviaChallenge questions={chapter.trivia} /> }]
+      ? [{
+          id: "trivia",
+          label: "Quick trivia",
+          instruction: "A quick recall check. Answers are shuffled, and you can retry if you get one wrong.",
+          content: <TriviaChallenge questions={chapter.trivia} />,
+        }]
       : []),
   ];
 
@@ -119,6 +156,7 @@ export function ChapterFlow({
       <p className="text-sm font-semibold uppercase tracking-wide mb-2" style={{ color: theme.accent }}>
         Step {stepIndex + 1} of {steps.length} · {step.label}
       </p>
+      <p className="text-base text-[var(--color-muted)] mb-5">{step.instruction}</p>
 
       <div className="mb-8">{step.content}</div>
 

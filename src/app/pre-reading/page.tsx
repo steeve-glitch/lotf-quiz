@@ -19,6 +19,10 @@ export default async function PreReadingPage() {
             Before Chapter 1
           </p>
           <h1 className="font-display text-3xl text-[var(--color-part1-ink)]">Pre-Reading Hub</h1>
+          <p className="text-base text-[var(--color-muted)] mt-2">
+            Read through this before starting Chapter 1 — it&apos;s background, not something you&apos;ll be
+            quizzed on.
+          </p>
         </div>
 
         {PRE_READING_SECTIONS.map((s) => (
