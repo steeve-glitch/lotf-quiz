@@ -25,34 +25,45 @@ export function TriviaChallenge({ questions }: { questions: TriviaQuestion[] }) 
         )}
       </div>
       <div className="space-y-5">
-        {questions.map((q, qi) => (
-          <div key={qi}>
-            <p className="text-base font-semibold mb-2">{q.question}</p>
-            <div className="grid grid-cols-1 sm:grid-cols-2 gap-2">
-              {q.options.map((opt, oi) => {
-                const chosen = answers[qi];
-                const isChosen = chosen === oi;
-                const revealed = chosen !== undefined;
-                return (
-                  <button
-                    key={oi}
-                    disabled={revealed}
-                    onClick={() => setAnswers((a) => ({ ...a, [qi]: oi }))}
-                    className={`text-left text-base rounded-lg border px-3 py-2 transition ${
-                      revealed && oi === q.correctAnswer
-                        ? "border-emerald-400 bg-emerald-50"
-                        : revealed && isChosen
-                          ? "border-red-300 bg-red-50"
-                          : "border-[var(--color-border)] hover:border-[var(--color-part1-accent)] disabled:hover:border-[var(--color-border)]"
-                    }`}
-                  >
-                    {opt}
-                  </button>
-                );
-              })}
+        {questions.map((q, qi) => {
+          const chosen = answers[qi];
+          const revealed = chosen !== undefined;
+          return (
+            <div key={qi}>
+              <p className="text-base font-semibold mb-2">{q.question}</p>
+              <div className="grid grid-cols-1 sm:grid-cols-2 gap-2">
+                {q.options.map((opt, oi) => {
+                  const isChosen = chosen === oi;
+                  return (
+                    <button
+                      key={oi}
+                      disabled={revealed}
+                      onClick={() => setAnswers((a) => ({ ...a, [qi]: oi }))}
+                      className={`text-left text-base rounded-lg border px-3 py-2 transition ${
+                        revealed && oi === q.correctAnswer
+                          ? "border-emerald-400 bg-emerald-50"
+                          : revealed && isChosen
+                            ? "border-red-300 bg-red-50"
+                            : "border-[var(--color-border)] hover:border-[var(--color-part1-accent)] disabled:hover:border-[var(--color-border)]"
+                      }`}
+                    >
+                      {opt}
+                    </button>
+                  );
+                })}
+              </div>
+              {revealed && chosen !== q.correctAnswer && (
+                <button
+                  onClick={() => setAnswers((a) => { const next = { ...a }; delete next[qi]; return next; })}
+                  className="text-sm font-semibold underline mt-2"
+                  style={{ color: "var(--color-part1-accent)" }}
+                >
+                  try again
+                </button>
+              )}
             </div>
-          </div>
-        ))}
+          );
+        })}
       </div>
     </div>
   );
