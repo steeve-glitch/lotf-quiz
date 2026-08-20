@@ -5,8 +5,8 @@ export function SiteNav({ session }: { session: ClientSession | null }) {
   return (
     <header className="border-b border-[var(--color-border)] bg-[var(--color-paper)]">
       <div className="max-w-4xl mx-auto px-4 sm:px-6 py-3 flex items-center justify-between">
-        <Link href="/" className="font-display text-lg text-[var(--color-part1-ink)]">
-          Lord of the Flies
+        <Link href="/" className="font-display text-lg text-[var(--color-part1-ink)] flex items-center gap-1.5">
+          <span aria-hidden>🐚</span> Lord of the Flies
         </Link>
         {session && (
           <div className="flex items-center gap-4 text-sm text-[var(--color-muted)]">

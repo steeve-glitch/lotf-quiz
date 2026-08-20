@@ -10,7 +10,7 @@ export default async function PreReadingPage() {
   const completed = await getCompletedUnitIds(session.studentId);
 
   return (
-    <main className="flex-1" style={{ background: "var(--color-part1-bg)" }}>
+    <main className="flex-1 grain" style={{ background: "var(--color-part1-bg)" }}>
       <SetChatContext unitId="pre-reading" />
       <div className="max-w-2xl mx-auto px-4 sm:px-6 py-10 space-y-6">
         <div>

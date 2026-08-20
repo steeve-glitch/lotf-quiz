@@ -19,7 +19,7 @@ export default async function CheckpointPage({ params }: { params: Promise<{ id:
 
   if (!checkpoint) {
     return (
-      <main className="flex-1 flex items-center justify-center" style={{ background: theme.bg }}>
+      <main className="flex-1 grain flex items-center justify-center" style={{ background: theme.bg }}>
         <Link href="/" className="text-sm font-semibold underline">
           ← Back to your reading path
         </Link>
@@ -64,7 +64,7 @@ export default async function CheckpointPage({ params }: { params: Promise<{ id:
   const next = nextUnitId(checkpoint.id);
 
   return (
-    <main className="flex-1" style={{ background: theme.bg }}>
+    <main className="flex-1 grain" style={{ background: theme.bg }}>
       <SetChatContext unitId={checkpoint.id} />
       <div className="max-w-2xl mx-auto px-4 sm:px-6 py-10 space-y-6">
         <div>

@@ -46,11 +46,12 @@ function SignInScreen({ next }: { next: string }) {
 
   return (
     <div
-      className="min-h-[80vh] flex items-center justify-center px-4"
+      className="min-h-[80vh] flex items-center justify-center px-4 grain"
       style={{ background: "var(--color-part1-bg)" }}
     >
       <div className="w-full max-w-sm text-center rounded-2xl bg-[var(--color-paper)] border border-[var(--color-border)] p-8 shadow-sm">
-        <h1 className="text-2xl text-[var(--color-part1-ink)]">Lord of the Flies</h1>
+        <p className="text-3xl mb-2" aria-hidden>🐚</p>
+        <h1 className="font-display text-2xl text-[var(--color-part1-ink)]">Lord of the Flies</h1>
         <p className="text-[11px] font-semibold text-[var(--color-muted)] uppercase tracking-wider mt-1 mb-6">
           Reading Companion — St John&apos;s English Department
         </p>

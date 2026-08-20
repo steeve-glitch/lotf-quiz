@@ -1,4 +1,5 @@
 import Link from "next/link";
+import { RopeDivider } from "@/components/RopeDivider";
 import { getStudentSession } from "@/lib/auth";
 import { getCompletedUnitIds } from "@/lib/progressServer";
 import { isUnitUnlocked } from "@/lib/sequence";
@@ -15,10 +16,10 @@ export default async function DashboardPage() {
   const preReadingDone = completed.has("pre-reading");
 
   return (
-    <main className="flex-1" style={{ background: "var(--color-part1-bg)" }}>
-      <div className="max-w-3xl mx-auto px-4 sm:px-6 py-10">
+    <main className="flex-1 grain" style={{ background: "var(--color-part1-bg)" }}>
+      <div className="max-w-3xl mx-auto px-4 sm:px-6 py-10 relative">
         <p className="text-xs font-semibold uppercase tracking-widest text-[var(--color-part1-accent)] mb-2">
-          Welcome back, {session.name.split(" ")[0]}
+          🐚 Welcome back, {session.name.split(" ")[0]}
         </p>
         <h1 className="font-display text-3xl text-[var(--color-part1-ink)] mb-2">
           Your reading path
@@ -36,11 +37,12 @@ export default async function DashboardPage() {
           done={preReadingDone}
         />
 
-        {PARTS.map((part) => {
+        {PARTS.map((part, partIndex) => {
           const theme = getPartTheme(part.id);
           const checkpoint = CHECKPOINTS.find((c) => c.afterPart === part.id);
           return (
             <div key={part.id} className="mt-8">
+              {partIndex > 0 && <RopeDivider />}
               <div className="flex items-center gap-2 mb-3">
                 <span className="h-2 w-2 rounded-full" style={{ background: theme.accent }} />
                 <h2 className="font-display text-lg" style={{ color: theme.ink }}>
