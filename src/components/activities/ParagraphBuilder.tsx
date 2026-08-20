@@ -17,8 +17,8 @@ export function ParagraphBuilder({ data }: { data: ParagraphBuilderData }) {
         <p className="text-xs font-semibold uppercase tracking-wide text-[var(--color-muted)] mb-1">
           Paragraph builder
         </p>
-        <p className="font-semibold text-sm mb-4">{data.focus}</p>
-        <div className="rounded-lg bg-[var(--color-part1-accent-soft)] p-4 space-y-3 text-sm">
+        <p className="font-semibold text-base mb-4">{data.focus}</p>
+        <div className="rounded-lg bg-[var(--color-part1-accent-soft)] p-4 space-y-3 text-base">
           <p>
             This builds one literary analysis paragraph in five short steps — the same shape you&apos;ll
             use in essays: <span className="font-semibold">Claim → Technique → Evidence → Effect → Significance</span>.
@@ -30,14 +30,14 @@ export function ParagraphBuilder({ data }: { data: ParagraphBuilderData }) {
             <li><span className="font-semibold">Effect</span> — what that technique makes the reader feel or notice.</li>
             <li><span className="font-semibold">Significance</span> — why it matters to the novel&apos;s bigger argument.</li>
           </ul>
-          <p className="text-xs text-[var(--color-muted)]">
+          <p className="text-sm text-[var(--color-muted)]">
             Tap a suggested phrase to fill a step quickly, or write your own — either is fine. You can compare
             your finished paragraph to a model answer at the end.
           </p>
         </div>
         <button
           onClick={() => setShowIntro(false)}
-          className="mt-4 rounded-lg px-5 py-2.5 text-sm font-semibold text-white"
+          className="mt-4 rounded-lg px-5 py-2.5 text-base font-semibold text-white"
           style={{ background: "var(--color-part1-accent)" }}
         >
           Got it — let&apos;s start →

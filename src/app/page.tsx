@@ -5,7 +5,7 @@ import { getCompletedUnitIds } from "@/lib/progressServer";
 import { isUnitUnlocked } from "@/lib/sequence";
 import { PARTS, CHECKPOINTS } from "@/content/parts";
 import { CHAPTER_MAP } from "@/content/chapters";
-import { getPartTheme } from "@/lib/partTheme";
+import { getPartTheme, partBackgroundStyle } from "@/lib/partTheme";
 
 export default async function DashboardPage() {
   const session = await getStudentSession();
@@ -16,7 +16,7 @@ export default async function DashboardPage() {
   const preReadingDone = completed.has("pre-reading");
 
   return (
-    <main className="flex-1 grain" style={{ background: "var(--color-part1-bg)" }}>
+    <main className="flex-1 grain" style={partBackgroundStyle(1)}>
       <div className="max-w-3xl mx-auto px-4 sm:px-6 py-10 relative">
         <p className="text-xs font-semibold uppercase tracking-widest text-[var(--color-part1-accent)] mb-2">
           🐚 Welcome back, {session.name.split(" ")[0]}
@@ -24,7 +24,7 @@ export default async function DashboardPage() {
         <h1 className="font-display text-3xl text-[var(--color-part1-ink)] mb-2">
           Your reading path
         </h1>
-        <p className="text-sm text-[var(--color-muted)] mb-8 max-w-xl">
+        <p className="text-base text-[var(--color-muted)] mb-8 max-w-xl leading-relaxed">
           Work through this at your own pace alongside class reading. Each chapter unlocks the next —
           finish one before moving on.
         </p>
@@ -112,8 +112,8 @@ function UnitRow({
       } ${emphasized ? "ring-1 ring-[var(--color-part1-accent)]" : ""}`}
     >
       <div>
-        <p className="text-sm font-semibold text-[var(--color-ink)]">{title}</p>
-        {subtitle && <p className="text-xs text-[var(--color-muted)] mt-0.5">{subtitle}</p>}
+        <p className="text-base font-semibold text-[var(--color-ink)]">{title}</p>
+        {subtitle && <p className="text-sm text-[var(--color-muted)] mt-0.5">{subtitle}</p>}
       </div>
       <span className="text-lg">{done ? "✅" : unlocked && !disabled ? "→" : "🔒"}</span>
     </div>

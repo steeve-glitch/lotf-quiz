@@ -27,7 +27,7 @@ export function TriviaChallenge({ questions }: { questions: TriviaQuestion[] }) 
       <div className="space-y-5">
         {questions.map((q, qi) => (
           <div key={qi}>
-            <p className="text-sm font-semibold mb-2">{q.question}</p>
+            <p className="text-base font-semibold mb-2">{q.question}</p>
             <div className="grid grid-cols-1 sm:grid-cols-2 gap-2">
               {q.options.map((opt, oi) => {
                 const chosen = answers[qi];
@@ -38,7 +38,7 @@ export function TriviaChallenge({ questions }: { questions: TriviaQuestion[] }) 
                     key={oi}
                     disabled={revealed}
                     onClick={() => setAnswers((a) => ({ ...a, [qi]: oi }))}
-                    className={`text-left text-sm rounded-lg border px-3 py-2 transition ${
+                    className={`text-left text-base rounded-lg border px-3 py-2 transition ${
                       revealed && oi === q.correctAnswer
                         ? "border-emerald-400 bg-emerald-50"
                         : revealed && isChosen

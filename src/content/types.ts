@@ -3,7 +3,6 @@
 export interface VocabTerm {
   word: string;
   definition: string;
-  spanishGloss: string; // short ES translation/gloss — only for genuinely obscure terms
   context: string; // the sentence/moment it appears in, and why it's worth knowing
 }
 

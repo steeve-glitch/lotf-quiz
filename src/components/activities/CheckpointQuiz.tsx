@@ -1,7 +1,8 @@
 "use client";
 
-import { useState } from "react";
+import { useState, useMemo } from "react";
 import { CheckpointQuestion } from "@/content/types";
+import { seededShuffle } from "@/lib/shuffle";
 
 export function CheckpointQuiz({
   questions,
@@ -12,15 +13,22 @@ export function CheckpointQuiz({
 }) {
   const [answers, setAnswers] = useState<Record<number, number>>({});
 
-  const allAnswered = Object.keys(answers).length === questions.length;
+  // Seeded per-question so option order is stable (no hydration mismatch)
+  // but not always correct-answer-first.
+  const shuffled = useMemo(
+    () => questions.map((q) => ({ ...q, options: seededShuffle(q.options, q.question) })),
+    [questions],
+  );
+
+  const allAnswered = Object.keys(answers).length === shuffled.length;
   const allCorrect =
-    allAnswered && questions.every((q, i) => q.options[answers[i]]?.isCorrect);
+    allAnswered && shuffled.every((q, i) => q.options[answers[i]]?.isCorrect);
 
   return (
     <div className="space-y-6">
-      {questions.map((q, qi) => (
+      {shuffled.map((q, qi) => (
         <div key={qi} className="rounded-xl border border-[var(--color-border)] bg-white p-5">
-          <p className="font-semibold text-sm mb-3">{q.question}</p>
+          <p className="font-semibold text-base mb-3">{q.question}</p>
           <div className="space-y-2">
             {q.options.map((opt, oi) => {
               const isSelected = answers[qi] === oi;
@@ -30,7 +38,7 @@ export function CheckpointQuiz({
                   key={oi}
                   disabled={revealed}
                   onClick={() => setAnswers((a) => ({ ...a, [qi]: oi }))}
-                  className={`w-full text-left rounded-lg border px-4 py-3 text-sm transition ${
+                  className={`w-full text-left rounded-lg border px-4 py-3 text-base transition ${
                     isSelected
                       ? opt.isCorrect
                         ? "border-emerald-400 bg-emerald-50"
@@ -39,7 +47,7 @@ export function CheckpointQuiz({
                   }`}
                 >
                   {opt.text}
-                  {isSelected && <p className="mt-2 text-xs text-[var(--color-muted)]">{opt.feedback}</p>}
+                  {isSelected && <p className="mt-2 text-sm text-[var(--color-muted)]">{opt.feedback}</p>}
                 </button>
               );
             })}
@@ -47,7 +55,7 @@ export function CheckpointQuiz({
           {answers[qi] !== undefined && !q.options[answers[qi]].isCorrect && (
             <button
               onClick={() => setAnswers((a) => { const next = { ...a }; delete next[qi]; return next; })}
-              className="text-xs font-semibold underline mt-3"
+              className="text-sm font-semibold underline mt-3"
               style={{ color: "var(--color-part2-accent)" }}
             >
               try again
@@ -59,13 +67,13 @@ export function CheckpointQuiz({
       {allCorrect ? (
         <button
           onClick={onAllCorrect}
-          className="w-full sm:w-auto rounded-xl px-6 py-3 text-sm font-semibold text-white shadow-sm"
+          className="w-full sm:w-auto rounded-xl px-6 py-3 text-base font-semibold text-white shadow-sm"
           style={{ background: "var(--color-part2-accent)" }}
         >
           Continue →
         </button>
       ) : (
-        <p className="text-xs text-[var(--color-muted)]">
+        <p className="text-sm text-[var(--color-muted)]">
           Answer every question correctly to move on — retry any you miss.
         </p>
       )}

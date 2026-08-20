@@ -10,40 +10,35 @@ export const CH_01: Chapter = {
   quote: {
     text: "Sucks to your ass-mar!",
     context:
-      "Jack's response on learning that Piggy has asthma — the first moment in the book where a boy is mocked for something he can't control. It sets up exactly how this group will treat weakness for the rest of the novel.",
+      "Jack's response on learning that Piggy has asthma — the first moment in the book where a boy is mocked for something he can't control.",
   },
   vocabulary: [
     {
       word: "conch",
       definition: "A large spiral seashell, used here as a rallying horn and a symbol of the right to speak.",
-      spanishGloss: "caracola",
       context:
         "Piggy spots it in the lagoon and tells Ralph how to blow it. Everything the boys build in Chapter 1 — the assembly, the election, the idea of taking turns — happens because of this shell.",
     },
     {
       word: "littluns",
       definition: "The younger boys, roughly ages six to eight, as the older boys start calling them.",
-      spanishGloss: "los pequeños",
       context:
         "Nobody assigned this word — the boys invent it themselves in Chapter 1 as soon as they need a way to talk about \"the little ones\" as a group, separate from themselves.",
     },
     {
       word: "biguns",
       definition: "The older boys, roughly twelve and up — the counterpart to \"littluns.\"",
-      spanishGloss: "los grandes",
       context: "Ralph, Jack, Piggy, and Simon are all biguns. Age turns out to matter a great deal on this island.",
     },
     {
       word: "creepers",
       definition: "Thick, tangled vines and undergrowth.",
-      spanishGloss: "enredaderas",
       context:
         "The piglet Jack can't kill is caught in creepers when they find it — the jungle itself keeps getting in the way of the boys' plans, and not always by accident.",
     },
     {
       word: "specs",
       definition: "British slang for glasses (spectacles).",
-      spanishGloss: "los lentes / las gafas",
       context: "Piggy's specs come up constantly from here on — keep an eye on how other boys talk about them.",
     },
   ],
@@ -81,7 +76,7 @@ export const CH_01: Chapter = {
       question: "Why does Golding include a moment where Jack fails to kill, rather than starting him off already comfortable with violence?",
       options: [
         {
-          text: "So that Jack's later transformation into someone who hunts, kills, and eventually hunts other boys reads as a real change we watch happen, not a fixed trait he had all along.",
+          text: "So that if Jack becomes someone who's comfortable with violence later on, it reads as a real change we watch happen, not a fixed trait he had all along.",
           isCorrect: true,
           feedback:
             "Exactly. If Jack were violent from page one, the novel would just be describing a bad kid. By showing him unable to kill in Chapter 1, Golding makes the descent a process — which is the actual argument of the book: this could happen to anyone.",
@@ -104,8 +99,7 @@ export const CH_01: Chapter = {
   ],
   symbolUpdates: [
     { symbol: "conch", status: "Found — becomes the rule of order", note: "Piggy spots it; Ralph learns to blow it; it becomes the reason he's elected chief." },
-    { symbol: "glasses", status: "Introduced", note: "Piggy's specs are mentioned repeatedly — not yet used for fire, but Golding is already pointing at them." },
-    { symbol: "beast", status: "Not yet mentioned", note: "No beast talk yet — that starts next chapter." },
+    { symbol: "glasses", status: "Introduced", note: "Piggy's specs are mentioned repeatedly as one of the few things that make him useful to the group." },
   ],
   characterUpdates: [
     { character: "ralph", position: 70, note: "Elected chief on the strength of the conch and his looks, not a track record." },

@@ -3,6 +3,7 @@
 import { Suspense } from "react";
 import { usePathname, useSearchParams } from "next/navigation";
 import type { ClientSession } from "@/lib/session-types";
+import { partBackgroundStyle } from "@/lib/partTheme";
 
 const AUTH_ERRORS: Record<string, string> = {
   domain: "Please sign in with your @students.stjohns.cl school account.",
@@ -47,7 +48,7 @@ function SignInScreen({ next }: { next: string }) {
   return (
     <div
       className="min-h-[80vh] flex items-center justify-center px-4 grain"
-      style={{ background: "var(--color-part1-bg)" }}
+      style={partBackgroundStyle(1)}
     >
       <div className="w-full max-w-sm text-center rounded-2xl bg-[var(--color-paper)] border border-[var(--color-border)] p-8 shadow-sm">
         <p className="text-3xl mb-2" aria-hidden>🐚</p>

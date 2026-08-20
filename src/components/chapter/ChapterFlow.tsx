@@ -48,16 +48,16 @@ export function ChapterFlow({
             <h2 className="text-xs font-semibold uppercase tracking-wide text-[var(--color-muted)] mb-2">
               What happens
             </h2>
-            <p className="text-sm leading-relaxed">{chapter.summary}</p>
+            <p className="text-base leading-relaxed">{chapter.summary}</p>
           </section>
           <section
             className="rounded-xl p-5 border-l-4"
             style={{ background: theme.accentSoft, borderColor: theme.accent }}
           >
-            <p className="italic text-lg font-display" style={{ color: theme.ink }}>
+            <p className="italic text-xl font-display" style={{ color: theme.ink }}>
               &ldquo;{chapter.quote.text}&rdquo;
             </p>
-            <p className="text-xs mt-2 text-[var(--color-muted)]">{chapter.quote.context}</p>
+            <p className="text-sm mt-2 text-[var(--color-muted)]">{chapter.quote.context}</p>
           </section>
         </div>
       ),
@@ -116,7 +116,7 @@ export function ChapterFlow({
         ))}
       </div>
 
-      <p className="text-xs font-semibold uppercase tracking-wide mb-2" style={{ color: theme.accent }}>
+      <p className="text-sm font-semibold uppercase tracking-wide mb-2" style={{ color: theme.accent }}>
         Step {stepIndex + 1} of {steps.length} · {step.label}
       </p>
 
@@ -126,7 +126,7 @@ export function ChapterFlow({
         <button
           onClick={() => setStepIndex((i) => Math.max(0, i - 1))}
           disabled={stepIndex === 0}
-          className="text-sm font-semibold text-[var(--color-muted)] disabled:opacity-30 px-2"
+          className="text-base font-semibold text-[var(--color-muted)] disabled:opacity-30 px-2"
         >
           ← Back
         </button>
@@ -134,7 +134,7 @@ export function ChapterFlow({
         {!isLast ? (
           <button
             onClick={() => setStepIndex((i) => i + 1)}
-            className="rounded-xl px-6 py-3 text-sm font-semibold text-white shadow-sm"
+            className="rounded-xl px-6 py-3 text-base font-semibold text-white shadow-sm"
             style={{ background: theme.accent }}
           >
             Next →
@@ -143,7 +143,7 @@ export function ChapterFlow({
           <button
             onClick={handleFinish}
             disabled={saving}
-            className="rounded-xl px-6 py-3 text-sm font-semibold text-white shadow-sm disabled:opacity-60"
+            className="rounded-xl px-6 py-3 text-base font-semibold text-white shadow-sm disabled:opacity-60"
             style={{ background: theme.accent }}
           >
             {saving ? "Saving…" : alreadyComplete ? nextLabel : "Finish chapter →"}

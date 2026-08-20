@@ -14,7 +14,7 @@ export function SymbolTracker({ updates }: { updates: SymbolStatus[] }) {
             <p className="font-display text-lg mt-1" style={{ color: "var(--color-part1-accent)" }}>
               {u.status}
             </p>
-            <p className="text-sm text-[var(--color-ink)] mt-2">{u.note}</p>
+            <p className="text-base text-[var(--color-ink)] mt-2">{u.note}</p>
           </div>
         );
       })}

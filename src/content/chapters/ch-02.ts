@@ -16,26 +16,22 @@ export const CH_02: Chapter = {
     {
       word: "assembly",
       definition: "A formal meeting where everyone gathers to discuss something together.",
-      spanishGloss: "asamblea",
       context: "The conch calls an assembly. What starts as an orderly system for meetings will get harder and harder to hold together as fear takes over.",
     },
     {
       word: "beastie",
       definition: "A child's word for a frightening, imagined monster.",
-      spanishGloss: "el monstruito / la bestia (en diminutivo, como diría un niño pequeño)",
       context:
-        "The littlun's own word for what he saw — small and almost cute-sounding, which makes it land harder that this fear turns out to be the thing that eventually destroys the group's order.",
+        "The littlun's own word for what he saw — small and almost cute-sounding, which makes it land harder how seriously the fear spreads through the rest of the assembly.",
     },
     {
       word: "smother",
       definition: "To cover something completely, cutting off its air — here, used about the fire and the smoke.",
-      spanishGloss: "sofocar / ahogar",
       context: "The fire that's meant to save them ends up doing damage before it does any good — this word shows up as it gets out of hand.",
     },
     {
       word: "mulberry",
       definition: "A dark purplish-red color, like the fruit.",
-      spanishGloss: "morado / color mora",
       context:
         "The littlun who disappears is identified only by \"the boy with the mulberry-coloured birthmark\" — he's never actually given a name. That absence is deliberate.",
     },
@@ -65,7 +61,7 @@ export const CH_02: Chapter = {
         },
       ],
       insight:
-        "Notice who the fear belongs to first: a littlun, dismissed by the older boys. But by the end of the novel, it's the biguns who are organizing hunts for it. Fear doesn't stay with the powerless for long.",
+        "Notice who the fear belongs to first: a littlun, dismissed by the older boys as too young to be taken seriously. Watch whether that stays true as more of the group starts to feel it too.",
     },
     {
       passage:
@@ -73,10 +69,10 @@ export const CH_02: Chapter = {
       question: "Why is it significant that the one act of real, practical progress this chapter (fire) depends on taking something away from the one character who thinks clearly (Piggy)?",
       options: [
         {
-          text: "It sets up a pattern: the group repeatedly benefits from Piggy's mind and his glasses while treating Piggy himself as disposable — foreshadowing how he's treated for the rest of the book.",
+          text: "It sets up a pattern in how the group treats Piggy: quick to use what he knows or has, slow to actually listen to him.",
           isCorrect: true,
           feedback:
-            "Right. Piggy is useful and expendable at the same time, in the group's eyes — and Golding keeps returning to that contradiction until it becomes literally fatal.",
+            "Right. Piggy is useful and expendable at the same time, in the group's eyes — his mind and his glasses matter, but he himself doesn't seem to.",
         },
         {
           text: "It shows that Piggy is generous and happy to help the group whenever he can.",
@@ -90,12 +86,12 @@ export const CH_02: Chapter = {
         },
       ],
       insight:
-        "The fire that's supposed to represent hope and rescue causes the novel's first death within the same chapter it's created. Hope and disaster arrive together — a pairing Golding repeats with fire again later in the book.",
+        "The fire that's supposed to represent hope and rescue causes the novel's first death within the same chapter it's created. Hope and disaster arrive together.",
     },
   ],
   symbolUpdates: [
     { symbol: "fire", status: "Lit — immediately gets out of control", note: "Built for rescue; burns half the mountain and likely kills the littlun with the mulberry mark on its first night." },
-    { symbol: "glasses", status: "Taken from Piggy to light the fire", note: "Useful to the group, costly to Piggy — a pattern that repeats." },
+    { symbol: "glasses", status: "Taken from Piggy to light the fire", note: "Useful to the group, costly to Piggy — he has to hand them over even though he protests." },
     { symbol: "beast", status: "First mentioned — as a littlun's story", note: "Not yet taken seriously by the biguns, but the fear has entered the group and won't leave." },
     { symbol: "conch", status: "Still holding — used to run the assembly", note: "Rules are still respected, for now." },
   ],
