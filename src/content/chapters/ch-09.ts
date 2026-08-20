@@ -159,5 +159,12 @@ export const CH_09: Chapter = {
       category: "The Beast",
       difficulty: "medium",
     },
+    {
+      question: "What does Ralph suggest the boys call what happened to Simon, in the immediate aftermath?",
+      options: ["A murder", "A tragic accident", "A sacrifice", "He refuses to discuss it"],
+      correctAnswer: 1,
+      category: "The Beast",
+      difficulty: "hard",
+    },
   ],
 };

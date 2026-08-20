@@ -111,5 +111,12 @@ export const CH_11: Chapter = {
       category: "Quotes",
       difficulty: "medium",
     },
+    {
+      question: "What does Jack's tribe intend to do with Ralph if they catch him after this chapter?",
+      options: ["Kill him and mount his head on a stick", "Force him to rejoin the tribe", "Leave him alone on the beach", "Send him to find rescue"],
+      correctAnswer: 0,
+      category: "Endings",
+      difficulty: "medium",
+    },
   ],
 };

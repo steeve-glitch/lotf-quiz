@@ -181,5 +181,19 @@ export const CH_04: Chapter = {
       category: "Leadership",
       difficulty: "easy",
     },
+    {
+      question: "During the hunt, what does Jack use to paint his face, which changes his behavior?",
+      options: ["Clay and charcoal", "Berry juice", "Mud only", "Leaves and grass"],
+      correctAnswer: 0,
+      category: "Fire & Rescue",
+      difficulty: "hard",
+    },
+    {
+      question: "What is Piggy's most valued possession, used to start the fire?",
+      options: ["His shoes", "His glasses", "His shirt", "His watch"],
+      correctAnswer: 1,
+      category: "Fire & Rescue",
+      difficulty: "easy",
+    },
   ],
 };

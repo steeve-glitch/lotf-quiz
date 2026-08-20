@@ -103,5 +103,12 @@ export const CH_06: Chapter = {
       category: "Characters",
       difficulty: "easy",
     },
+    {
+      question: "What is Jack's initial role within the choir group?",
+      options: ["Leader and hunter", "Fire-keeper", "Record-keeper", "Lookout only"],
+      correctAnswer: 0,
+      category: "Ralph vs Jack",
+      difficulty: "medium",
+    },
   ],
 };

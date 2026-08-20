@@ -199,5 +199,19 @@ export const CH_01: Chapter = {
       category: "Characters",
       difficulty: "easy",
     },
+    {
+      question: "Which boy suggests, early on, that they make a list of everyone's names?",
+      options: ["Ralph", "Jack", "Piggy", "Simon"],
+      correctAnswer: 2,
+      category: "The Island",
+      difficulty: "hard",
+    },
+    {
+      question: "What object does Jack use to hunt pigs?",
+      options: ["A spear", "A net", "A bow", "His bare hands"],
+      correctAnswer: 0,
+      category: "The Island",
+      difficulty: "easy",
+    },
   ],
 };

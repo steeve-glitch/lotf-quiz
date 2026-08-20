@@ -127,5 +127,12 @@ export const CH_03: Chapter = {
       category: "Leadership",
       difficulty: "easy",
     },
+    {
+      question: "What is the primary source of food for the boys on the island?",
+      options: ["Fruit and pigs", "Fish only", "Supplies from the wreckage", "Birds' eggs"],
+      correctAnswer: 0,
+      category: "The Island",
+      difficulty: "easy",
+    },
   ],
 };

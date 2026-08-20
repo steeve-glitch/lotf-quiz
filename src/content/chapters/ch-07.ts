@@ -103,5 +103,12 @@ export const CH_07: Chapter = {
       category: "Characters",
       difficulty: "easy",
     },
+    {
+      question: "What geographical feature serves as Ralph's meeting place and center for assemblies?",
+      options: ["The lagoon", "The platform", "Castle Rock", "The mountain peak"],
+      correctAnswer: 1,
+      category: "The Island",
+      difficulty: "medium",
+    },
   ],
 };

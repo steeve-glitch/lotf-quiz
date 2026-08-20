@@ -834,7 +834,7 @@
     {
       "question": "What chant do the hunters repeat during their ritualistic dances?",
       "options": [
-        "'Kill the pig! Cut his throat! Bash him in!'",
+        "'Kill the pig. Cut her throat. Spill her blood.'",
         "'Hunt the beast! Capture the beast! Kill the beast!'",
         "'Ralph is bad! Jack is good! We want meat!'",
         "'The island is ours! We are the hunters! We are strong!'"
@@ -1252,7 +1252,7 @@
       "difficulty": "easy"
     },
     {
-      "question": "Who says the famous line, \"Maybe there is a beast... maybe it's only us.\"",
+      "question": "Who says the famous line, \"What I mean is... maybe it's only us\"?",
       "options": [
         "Ralph",
         "Piggy",
@@ -1264,7 +1264,7 @@
       "difficulty": "medium"
     },
     {
-      "question": "What does Piggy say when the conch is broken?",
+      "question": "What does Ralph shout at the tribe, moments before the boulder falls?",
       "options": [
         "\"Everything is lost!\"",
         "\"Which is better, law and rescue, or hunting and breaking things up?\"",
@@ -1276,9 +1276,9 @@
       "difficulty": "medium"
     },
     {
-      "question": "What does Ralph shout at Jack and the hunters during their confrontation after Simon's death?",
+      "question": "What does Ralph say to Piggy, once, plainly, in the aftermath of Simon's death?",
       "options": [
-        "\"You're all savages!\"",
+        "\"That was murder.\"",
         "\"Which is better, to have rules and agree, or to hunt and kill?\"",
         "\"Give me the conch!\"",
         "\"You let the fire go out!\""
@@ -1290,7 +1290,7 @@
     {
       "question": "What does Jack repeatedly chant while hunting?",
       "options": [
-        "\"Kill the pig! Cut her throat! Spill her blood!\"",
+        "\"Kill the pig. Cut her throat. Spill her blood.\"",
         "\"Hunt the beast! Find the beast! Kill the beast!\"",
         "\"Power! Control! Domination!\"",
         "\"Freedom! Victory! Survival!\""
@@ -1300,10 +1300,10 @@
       "difficulty": "medium"
     },
     {
-      "question": "What are Piggy's final words before his death?",
+      "question": "What does Piggy shout, holding up the conch, moments before his death?",
       "options": [
         "\"Ralph! Run!\"",
-        "\"I got the conch! You let me speak!\"",
+        "\"I got the conch!\"",
         "\"Which is better—to be packed and painted—or to be wise?\"",
         "\"Help me! They're going to kill me!\""
       ],
@@ -1324,10 +1324,10 @@
       "difficulty": "medium"
     },
     {
-      "question": "What phrase does Ralph repeat when trying to remember the importance of fire?",
+      "question": "What does Ralph shout at Jack when he realizes the fire has gone out and a ship has passed?",
       "options": [
         "\"The fire, the fire!\"",
-        "\"We need smoke!\"",
+        "\"I was talking about smoke! Don't you want to be rescued?\"",
         "\"Rescue, rescue!\"",
         "\"The signal fire!\""
       ],
@@ -1372,7 +1372,7 @@
       "difficulty": "hard"
     },
     {
-      "question": "What does Piggy say immediately before he dies?",
+      "question": "What does Ralph shout, trying to be heard over the tribe's jeering, shortly before Piggy's death?",
       "options": [
         "'Ralph! Run!'",
         "'Which is better, law and rescue, or hunting and breaking things up?'",
@@ -1384,14 +1384,14 @@
       "difficulty": "hard"
     },
     {
-      "question": "What is the naval officer's ironic question to Ralph at the end of the novel?",
+      "question": "What does the officer say, comparing the island to a children's adventure story, that finally breaks Ralph down?",
       "options": [
         "'Having a good time, boys?'",
-        "'Who's in charge here?'",
+        "'Jolly good show. Like the Coral Island.'",
         "'Are there any dead bodies?'",
         "'What have you been up to?'"
       ],
-      "correctAnswer": 0,
+      "correctAnswer": 1,
       "category": "Quotes",
       "difficulty": "hard"
     },
@@ -1399,7 +1399,7 @@
       "question": "What specific phrase does Jack use to declare his independence from Ralph's authority?",
       "options": [
         "'I'm going off to hunt.'",
-        "'I'm not playing any longer.'",
+        "'I'm not going to play any longer.'",
         "'We'll have fun!'",
         "'This is my island now.'"
       ],
@@ -1420,12 +1420,12 @@
       "difficulty": "hard"
     },
     {
-      "question": "What does Piggy repeatedly insist Jack is doing when he is being unreasonable?",
+      "question": "What does Ralph shout at Jack when Jack ignores the rules of assembly?",
       "options": [
         "'Being a savage.'",
         "'Not playing fair.'",
         "'Acting like a kid.'",
-        "'Breaking the rules.'"
+        "'You're breaking the rules!'"
       ],
       "correctAnswer": 3,
       "category": "Quotes",
@@ -2562,7 +2562,7 @@
     {
       "question": "What chant do the hunters repeat that is associated with the hunt and the 'beast'?",
       "options": [
-        "'Kill the pig! Cut her throat! Spill her blood!'",
+        "'Kill the pig. Cut her throat. Spill her blood.'",
         "'Find the beast! Hunt it down! Kill it dead!'",
         "'Rules are rules! We must obey!'",
         "'Fire is life! Fire is hope!'"
@@ -3364,11 +3364,11 @@
       "difficulty": "medium"
     },
     {
-      "question": "What question does the naval officer ask that causes Ralph to cry?",
+      "question": "What does the officer say, comparing the island to a children's adventure story, that causes Ralph to cry?",
       "options": [
         "'Are there any adults on the island?'",
         "'Who is the leader here?'",
-        "'Having a good time are you?'",
+        "'Jolly good show. Like the Coral Island.'",
         "'Are there any dead bodies?'"
       ],
       "correctAnswer": 2,
@@ -3400,11 +3400,11 @@
       "difficulty": "hard"
     },
     {
-      "question": "What question does the naval officer ask that prompts Ralph to cry even harder?",
+      "question": "What does the officer say, referencing a boys'-adventure novel, that prompts Ralph to cry even harder?",
       "options": [
         "'Who is the leader here?'",
         "'Are there any adults?'",
-        "'Having a good time are you?'",
+        "'Jolly good show. Like the Coral Island.'",
         "'Where are the rest of you?'"
       ],
       "correctAnswer": 2,

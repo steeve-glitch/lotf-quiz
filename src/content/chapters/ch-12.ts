@@ -164,5 +164,19 @@ export const CH_12: Chapter = {
       category: "Endings",
       difficulty: "easy",
     },
+    {
+      question: "What has Roger sharpened at both ends, a detail whose significance Ralph doesn't fully grasp?",
+      options: ["A stick", "A bone", "A spear shaft", "A stone"],
+      correctAnswer: 0,
+      category: "Endings",
+      difficulty: "hard",
+    },
+    {
+      question: "How does Jack's tribe try to flush Ralph out of hiding?",
+      options: ["By setting fire to the whole island", "By offering a truce", "By threatening Sam and Eric", "By flooding the jungle"],
+      correctAnswer: 0,
+      category: "Plot Events",
+      difficulty: "medium",
+    },
   ],
 };

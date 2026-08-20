@@ -165,5 +165,19 @@ export const CH_05: Chapter = {
       category: "The Beast",
       difficulty: "medium",
     },
+    {
+      question: "What is Jack's primary motivation for challenging Ralph's leadership?",
+      options: ["To hunt and have fun", "To protect the littluns", "To find fresh water", "To build better shelters"],
+      correctAnswer: 0,
+      category: "Leadership",
+      difficulty: "easy",
+    },
+    {
+      question: "Which boy is initially most enthusiastic about Ralph's leadership and the idea of rules?",
+      options: ["Jack", "Roger", "Piggy", "Maurice"],
+      correctAnswer: 2,
+      category: "Leadership",
+      difficulty: "medium",
+    },
   ],
 };

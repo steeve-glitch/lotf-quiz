@@ -165,5 +165,19 @@ export const CH_08: Chapter = {
       category: "Plot Events",
       difficulty: "easy",
     },
+    {
+      question: "What is the first animal that Jack's tribe hunts and kills in this chapter?",
+      options: ["A sow (mother pig)", "A goat", "A wild dog", "A bird"],
+      correctAnswer: 0,
+      category: "Plot Events",
+      difficulty: "medium",
+    },
+    {
+      question: "How does Jack establish his own tribe and leadership?",
+      options: ["By appealing to their fears and desires", "By calling a fair election", "By asking Ralph's permission", "By writing new rules"],
+      correctAnswer: 0,
+      category: "Leadership",
+      difficulty: "easy",
+    },
   ],
 };

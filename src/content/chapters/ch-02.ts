@@ -139,5 +139,19 @@ export const CH_02: Chapter = {
       category: "The Beast",
       difficulty: "easy",
     },
+    {
+      question: "Who is initially put in charge of maintaining the signal fire?",
+      options: ["Ralph", "Piggy", "Jack and the choir", "Simon"],
+      correctAnswer: 2,
+      category: "Leadership",
+      difficulty: "easy",
+    },
+    {
+      question: "What was the boys' primary goal when they first landed on the island?",
+      options: ["Being rescued", "Finding food", "Exploring the mountain", "Building a raft"],
+      correctAnswer: 0,
+      category: "Fire & Rescue",
+      difficulty: "medium",
+    },
   ],
 };

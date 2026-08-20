@@ -104,5 +104,12 @@ export const CH_10: Chapter = {
       category: "Fire & Rescue",
       difficulty: "hard",
     },
+    {
+      question: "Besides Piggy, who else remains in Ralph's shrunken camp by this point?",
+      options: ["Sam and Eric", "Maurice and Robert", "Nobody — Ralph is alone", "Roger and Bill"],
+      correctAnswer: 0,
+      category: "Characters",
+      difficulty: "medium",
+    },
   ],
 };
