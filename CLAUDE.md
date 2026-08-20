@@ -3,9 +3,9 @@
 A self-paced reading companion for St John's School 10th graders working through
 *Lord of the Flies*, used as support outside of school. Sequential chapter
 unlocking, a per-chapter activity toolkit (close reading, symbol/character
-trackers, vocabulary with Spanish glosses, paragraph builder, trivia), a
-Claude-powered Socratic chatbot scoped to the chapter the student is on, and a
-teacher progress dashboard.
+trackers, vocabulary, paragraph builder, trivia), a Claude-powered Socratic
+chatbot scoped to the chapter the student is on, and a teacher progress
+dashboard. Live at `lotf.mrbell.app`.
 
 ## Sibling apps this reuses patterns from
 
@@ -15,7 +15,9 @@ teacher progress dashboard.
   copy, minus the `class` field (this is a single cohort, not multi-teacher).
 - `~/projects/paragraph-app` — origin of the auth pattern io-app itself copies;
   and the "pedagogical content lives as typed TS modules in `src/content/`, not
-  the DB" convention.
+  the DB" convention. Also the source of `src/app/icon.png` (the St John's
+  crest, reused verbatim as this app's favicon via Next's file-based icon
+  convention — no code needed beyond the file itself).
 - `~/projects/1984` and `~/projects/salesman-app` — the reading-companion genre
   this replaces/upgrades (Firebase/Firestore/Gemini stack) for a previous book.
   Not code-shared — different stack entirely — but the activity-type toolkit
@@ -32,25 +34,50 @@ teacher progress dashboard.
 - `npm run deploy` — build + deploy to `lotf.mrbell.app`
 - `npm run lint` / `npm run typecheck` — gates before any deploy
 
-## Status (Phase 1)
+## Content status
 
-Scaffolded and built: auth, D1 schema, sequential unlock across
-Pre-Reading → Part 1 (Ch 1–4) → Checkpoint I → Part 2 (Ch 5–9) → Checkpoint II →
-Part 3 (Ch 10–12), the full activity-type toolkit, the Claude chatbot, and the
-teacher dashboard. **Only Chapters 1–2 have content written** — Chapters 3–12 and
-Checkpoint II's remaining detail are Phase 2, after Steve reviews the format/tone
-of Ch 1–2. Chapters without content render a "coming soon" placeholder rather
-than 404ing, so the unlock chain and dashboard already reflect the full book.
+**All 12 chapters are written**, across all three Parts, plus both Descent
+Checkpoints (2 questions each). Each chapter follows the schema in
+`src/content/types.ts`: summary, a quote, vocabulary, two close-reading MCQs
+(auto-shuffled per question via `src/lib/shuffle.ts` — a seeded shuffle, not
+`Math.random()`, so server/client render identically), symbol/character
+tracker updates, an optional paragraph builder (Ch 1, 4, 9, 12 — spread across
+the book's turning points), a reflection prompt, and trivia pulled from the
+salvaged `trivia-bank.json`.
+
+**Content was written from the author's own knowledge of the novel, not from
+the source text directly** — most quotes were cross-checked against the
+salvaged trivia bank's confirmed wording (itself independently generated) for
+extra confidence, but a small number of minor, non-pivotal quotes (e.g. Ch 6's
+"It's got teeth — and big black eyes") are lower-confidence paraphrase rather
+than verified verbatim text. Worth a skim against a physical copy before
+treating every quote as exact, particularly in Chapters 3, 6, and 7 where no
+independently-confirmed source was available. The major, famous lines (Ch 1's
+"ass-mar," Ch 2's "English are best at everything," Ch 5's Piggy speech, Ch 8's
+"I'm not playing any longer," Ch 9's hunting chant, Ch 11's "law and rescue,"
+Ch 12's closing line) are all cross-confirmed against the trivia bank and
+high-confidence.
+
+**Spoiler discipline:** every chapter was swept for references to plot that
+hasn't happened yet *as of that chapter* — this was tightened once mid-build
+after review caught a "not yet mentioned" symbol-tracker entry and several
+close-reading insights that named things from later chapters (Jack "eventually
+hunts other boys," Piggy's fate "becomes literally fatal," etc.). If new
+chapters are ever added or edited, re-check for this pattern specifically —
+it's an easy one to slip back into when writing analytical insight text.
+
+## Status
+
+Feature-complete for the whole book. Deployed and live.
 
 **Before this can go live for real students:**
-- D1 database `lotf-companion` created (id `4a91cf92-0132-468c-83bd-24fe3a0e7204`);
-  migrations need to be generated and applied (`--remote`) before first deploy.
-- `.dev.vars` needs real secrets — reuse the `displacement-95b6f` GCP OAuth
-  client (same one paragraph-app/io-app use) but **Steve needs to add
-  `https://lotf.mrbell.app/api/auth/google/callback` as an authorized redirect
-  URI on that client in the GCP console** — no CLI access to do this directly.
-  Also needs a fresh `AUTH_SECRET` (not shared with the sibling apps) and a real
-  `ANTHROPIC_API_KEY`.
-- `git init` not yet needed — this repo (`lotf-quiz`, renamed in spirit to the
-  companion) already has git history; the old Vite trivia app was removed and
-  its EN question bank salvaged into `src/content/trivia-bank.json`.
+- Production secrets are set on the Worker (`wrangler secret list` to confirm)
+  — `GOOGLE_OAUTH_CLIENT_ID`/`SECRET` reused from io-app's, `ANTHROPIC_API_KEY`
+  reused from ielts's, fresh `AUTH_SECRET`/`ADMIN_PASSWORD` generated for this
+  app specifically (see `.secrets-note/production-secrets.txt`, gitignored).
+- **Steve still needs to confirm** `https://lotf.mrbell.app/api/auth/google/callback`
+  is added as an authorized redirect URI on the shared `displacement-95b6f` GCP
+  OAuth client — this was the one manual step outside CLI reach, and sign-in
+  was confirmed working after it was added.
+- Worth a teacher read-through of Chapters 3–12 before pointing real students
+  at it, given the content-confidence caveat above.

@@ -107,6 +107,28 @@ export const CHECKPOINTS: Checkpoint[] = [
           },
         ],
       },
+      {
+        question:
+          "In Chapter 8, Jack loses a fair vote to remove Ralph as chief — and walks away anyway, forming his own tribe. Why does this actually work?",
+        options: [
+          {
+            text: "Because the conch's authority only ever existed as long as everyone agreed to respect it — Jack simply stops agreeing, and offers hunger-driven boys an easier alternative.",
+            isCorrect: true,
+            feedback:
+              "Exactly. The vote wasn't rigged and Ralph didn't do anything wrong — the rules just turn out to have no enforcement behind them once someone decides to ignore the result.",
+          },
+          {
+            text: "Because Ralph secretly agrees to step down after the vote.",
+            isCorrect: false,
+            feedback: "Ralph never agrees to this — he keeps trying to hold the group together for the rest of Part Two.",
+          },
+          {
+            text: "Because the littluns force Jack out through their own vote.",
+            isCorrect: false,
+            feedback: "It's the biguns' vote that matters here, and it doesn't go Jack's way at all — that's exactly why he simply leaves instead.",
+          },
+        ],
+      },
     ],
   },
 ];
